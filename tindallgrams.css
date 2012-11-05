@@ -8,6 +8,9 @@ header div {
 	margin-bottom: 1em;
 }
 
+.ul {
+	text-decoration: underline;
+}
 
 .addressees ul {
 	list-style: none;
