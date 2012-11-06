@@ -62,14 +62,27 @@ textarea {
 
 
 body {
-    margin: 1em;
+    width: 45em;
+    margin: 2em auto;
+}
+
+.page p {
+    line-height: 2;
 }
 
 table td {
     padding: .5em 1em;
 }
 
+h1 {
+    font-family: 'Scada', sans-serif;
+    font-weight: 400;
+    font-size: 48px;
+}
 
+section h1 {
+    font-size: 36px;
+}
 
 
 
