@@ -1,216 +1,205 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <title>Tindallgram 66-FM1-59</title>
-        <link rel="stylesheet" href="tindallgrams.css">
-    </head>
-    <body>
+<header>
+    <div class="to">TO: See list below</div>
+    <div class="from">FROM : FM1/Assistant Chief, Mission Planning
+    and Analysis Division</div>
+    <div class="date">DATE: May 12 1966</div>
+    <div class="serial">66-FM1-59</div>
+    <div class="subject">Subject: Spacecraft computer program requirements for AS-207/208, AS-503, and
+    AS-504</div>
+</header>
 
-        <header>
-            <div class="to">TO: See list below</div>
-            <div class="from">FROM : FM1/Assistant Chief, Mission Planning
-            and Analysis Division</div>
-            <div class="date">DATE: May 12 1966</div>
-            <div class="serial">66-FM1-59</div>
-            <div class="subject">Subject: Spacecraft computer program requirements for AS-207/208, AS-503, and
-            AS-504</div>
-        </header>
+<p>On May 13 and 14, 1966, a flock of MSC people met with MIT people in
+Boston to discuss the spacecraft computer program requirements for missions
+AS-207/208, AS-503, and AS-504. This memorandum is probably one
+of several on the subject you will be getting in the near future. My
+main purpose is to describe the situation as it exists on these important
+programs; it is not altogether a happy one.</p>
 
-        <p>On May 13 and 14, 1966, a flock of MSC people met with MIT people in
-        Boston to discuss the spacecraft computer program requirements for missions
-        AS-207/208, AS-503, and AS-504. This memorandum is probably one
-        of several on the subject you will be getting in the near future. My
-        main purpose is to describe the situation as it exists on these important
-        programs; it is not altogether a happy one.</p>
+<p>Our basic problem seems to center on the time available to prepare the
+computer program for these flights and on the fact that the computer
+is not big enough to contain all of the programs which appear to be either
+required or highly desirable for the mtssion. According to MIT estimates,
+the programs which had been identified as needed for the CSM on the AS-504 
+mission are in the order of 15,000 words in excess of the 36,000
+word computer. The LEM computer storage capacity was exceeded by about
+6,000 words for the LORS configuration and 4,5OO words for the radar configuration.</p>
 
-        <p>Our basic problem seems to center on the time available to prepare the
-        computer program for these flights and on the fact that the computer
-        is not big enough to contain all of the programs which appear to be either
-        required or highly desirable for the mtssion. According to MIT estimates,
-        the programs which had been identified as needed for the CSM on the AS-504 
-        mission are in the order of 15,000 words in excess of the 36,000
-        word computer. The LEM computer storage capacity was exceeded by about
-        6,000 words for the LORS configuration and 4,5OO words for the radar configuration.</p>
+<p>Since we have assumed a basic ground rule that no routines would be included 
+in the AS-207/208 programs which are not in the AS-504 program,
+our first task was to reduce the AS-504 program requirements to a point
+where the CSM and LEM programs would fit within the computer storage
+available. After doing this, we went through tbe AS-504 programs and
+determined which processors could be omitted from the AS-207/208 programs 
+if the overall schedule situation would be improved by their deletion. 
+Accordingly, our task at this meeting was to identify the lower
+priority routines with an understanding that no further work would be
+done on them and they would not be included in the computer programs
+for the AS-207/208, AS-503, and AS-504 flights. It was evident from
+the start that there were very few programs which could be easily deleted. 
+In fact, it was a very painful process. For the most part,
+"requirements" could only be dropped at some cost in probability of
+mission success or by putting a greater workload on the crew or reliance
+on ground support. We did adopt a basic ground rule that obviously
+flight crew safety could not be impaired.</p>
 
-        <p>Since we have assumed a basic ground rule that no routines would be included 
-        in the AS-207/208 programs which are not in the AS-504 program,
-        our first task was to reduce the AS-504 program requirements to a point
-        where the CSM and LEM programs would fit within the computer storage
-        available. After doing this, we went through tbe AS-504 programs and
-        determined which processors could be omitted from the AS-207/208 programs 
-        if the overall schedule situation would be improved by their deletion. 
-        Accordingly, our task at this meeting was to identify the lower
-        priority routines with an understanding that no further work would be
-        done on them and they would not be included in the computer programs
-        for the AS-207/208, AS-503, and AS-504 flights. It was evident from
-        the start that there were very few programs which could be easily deleted. 
-        In fact, it was a very painful process. For the most part,
-        "requirements" could only be dropped at some cost in probability of
-        mission success or by putting a greater workload on the crew or reliance
-        on ground support. We did adopt a basic ground rule that obviously
-        flight crew safety could not be impaired.</p>
+<p>We were successful in our task to the extent that the program requirements 
+were reduced to a point wherein a reasonable chance of their fitting 
+into the computer storage was assured. In addition, we identified
+the next computer routines which would be deleted in the event storage
+was ultimately exceeded, forcing the removal of more routines. I would
+like to list a few of the programs which were deleted to give you a
+feel for the situation. For example, the following routines were removed 
+from the command module computer program:</p>
 
-        <p>We were successful in our task to the extent that the program requirements 
-        were reduced to a point wherein a reasonable chance of their fitting 
-        into the computer storage was assured. In addition, we identified
-        the next computer routines which would be deleted in the event storage
-        was ultimately exceeded, forcing the removal of more routines. I would
-        like to list a few of the programs which were deleted to give you a
-        feel for the situation. For example, the following routines were removed 
-        from the command module computer program:</p>
+<p>1. Concentric flight plan routines, which provide an onboard capability 
+for computing the first two maneuvers of the coelliptic flight
+plan, setting up proper initial conditions for termlnal phase, were deleted. 
+Since flight crew safety is implicit in the rendezvous capability,
+we (MPAD) have accepted a task of identifying the various failure situations 
+in which the command module must rescue the LEM to assure ourselves
+that this capability will still exist with these programs not available
+to the crew. This is not certain at this time.</p>
 
-        <p>1. Concentric flight plan routines, which provide an onboard capability 
-        for computing the first two maneuvers of the coelliptic flight
-        plan, setting up proper initial conditions for termlnal phase, were deleted. 
-        Since flight crew safety is implicit in the rendezvous capability,
-        we (MPAD) have accepted a task of identifying the various failure situations 
-        in which the command module must rescue the LEM to assure ourselves
-        that this capability will still exist with these programs not available
-        to the crew. This is not certain at this time.</p>
+<p>2. Programs used for computing attitude maneuvers were deleted.
+These programs were used in the guidance system for automatically making
+minimum fuel attitude change maneuvers while avoiding gimbal lock. It
+is obvious that these routines would be used even in a nominal mission,
+but it is felt the pilot could do the job instead of the computer, although 
+probably at some extra cost in our precious RCS fuel.</p>
 
-        <p>2. Programs used for computing attitude maneuvers were deleted.
-        These programs were used in the guidance system for automatically making
-        minimum fuel attitude change maneuvers while avoiding gimbal lock. It
-        is obvious that these routines would be used even in a nominal mission,
-        but it is felt the pilot could do the job instead of the computer, although 
-        probably at some extra cost in our precious RCS fuel.</p>
+<p>3. It was identified that deletion of the capability to take over
+launch guidance of the S-II and/or S-IVB stages of the Saturn by the
+command module guidance system would considerably relieve our computer
+storage problem. However, it has been directed by NASA Headquarters
+that this capability be provided. Accordingly, steps are being taken
+within MSC in an attempt to relieve this Headquarters requirement, which
+is primarily one of improving probability of mtssion success with indirect 
+and hopeful acceptable implications on flight crew safety.</p>
 
-        <p>3. It was identified that deletion of the capability to take over
-        launch guidance of the S-II and/or S-IVB stages of the Saturn by the
-        command module guidance system would considerably relieve our computer
-        storage problem. However, it has been directed by NASA Headquarters
-        that this capability be provided. Accordingly, steps are being taken
-        within MSC in an attempt to relieve this Headquarters requirement, which
-        is primarily one of improving probability of mtssion success with indirect 
-        and hopeful acceptable implications on flight crew safety.</p>
+<p>4. Programs were being supplied to enable guidance system to execute 
+maneuvers necessary for inserting the spacecraft into orbit or
+for landing in a preselected launch abort area by use of a spacecraft
+SPS maneuver in the event of a late launch abort. These routines, which
+were origlnelly scheduled for AS-204 but were deleted from that flight
+due to schedule problems, were also deleted from the AS-504 program.
+This is more serious, however, since ground support of Saturn V aborts
+is more limited than for the 200 series missions.</p>
 
-        <p>4. Programs were being supplied to enable guidance system to execute 
-        maneuvers necessary for inserting the spacecraft into orbit or
-        for landing in a preselected launch abort area by use of a spacecraft
-        SPS maneuver in the event of a late launch abort. These routines, which
-        were origlnelly scheduled for AS-204 but were deleted from that flight
-        due to schedule problems, were also deleted from the AS-504 program.
-        This is more serious, however, since ground support of Saturn V aborts
-        is more limited than for the 200 series missions.</p>
+<p>5. Several other actions were taken to relieve the storage problems_
+such as deleting some programs from the flight ropes which support preflight 
+pad tests. (It is not intended to delete the tests but rather
+to support them in another way. ) In addition, action designed to streamline 
+the program was initiated.</p>
 
-        <p>5. Several other actions were taken to relieve the storage problems_
-        such as deleting some programs from the flight ropes which support preflight 
-        pad tests. (It is not intended to delete the tests but rather
-        to support them in another way. ) In addition, action designed to streamline 
-        the program was initiated.</p>
+<p>6. Identified as the next programs to be deleted, if it turns out
+to be necessary, are the stored star catalog and the automatic star selection 
+routines which the pilot would use routinely even during a nominal 
+mission for platform alignment. Deletion of these routines would
+force manual selection of which stars to use for this purpose and would
+require that their characteristics be manually keyed into the computer.
 
-        <p>6. Identified as the next programs to be deleted, if it turns out
-        to be necessary, are the stored star catalog and the automatic star selection 
-        routines which the pilot would use routinely even during a nominal 
-        mission for platform alignment. Deletion of these routines would
-        force manual selection of which stars to use for this purpose and would
-        require that their characteristics be manually keyed into the computer.
+<p>It is evident that the above programs would be extremely valuable during
+the lunar and AS-207 rendezvous missions, and the necessity of deleting
+these programs is probably the best indication of how critical the computer 
+storage problem is.</p>
 
-        <p>It is evident that the above programs would be extremely valuable during
-        the lunar and AS-207 rendezvous missions, and the necessity of deleting
-        these programs is probably the best indication of how critical the computer 
-        storage problem is.</p>
+<p>Deletions in the LEM program were similar. It was interesting to note
+that the LORS configuration requires about 1,500 more storage locations
+than the radar. Thus, if the radar wins the guidance system olympics,
+we will recover this nice bonus. Generally speaking, however, it appeared 
+that the computer storage problem was more severe on the command
+module computer than on the LORS at this date.</p>
 
-        <p>Deletions in the LEM program were similar. It was interesting to note
-        that the LORS configuration requires about 1,500 more storage locations
-        than the radar. Thus, if the radar wins the guidance system olympics,
-        we will recover this nice bonus. Generally speaking, however, it appeared 
-        that the computer storage problem was more severe on the command
-        module computer than on the LORS at this date.</p>
+<p>I would like to include a couple of remarks here regarding the programs
+for the AS-207/208 mission. Since it is intended to use only AS-504
+programs and since it is possible to fly the AS-207/208 mission with a
+number of the CSM AS-504 programs omitted, by definition we do not have
+a storage problem for that mission. Our problem here--and it is a serious 
+one--is that MIT maintains that we are considerably behind schedule.
+Although we intend to initiate action designed to improve this situation,
+it bas been recommended by MIT that a number of the AS-504 programs
+be deleted which are not essential for the AS-207/208 mission. Some of
+us at MSC are concerned that, although this may improve the schedule
+situation for AS-207/208, it may damage the schedule for AS-504, which
+is probably even more undesirable. Accordingly, we intend to review
+very carefully the overall schedule situation before any of the AS-504
+programs are omitted from the AS-207/208 programs. At the very least,
+it is intended that al1 internal programm interfaces be provided to insure 
+the maximum similarity between the AS-207/208 and AS-504 programs.
+In fact, it may even prove desirable to substitute dummy programs for
+each of those deleted from the AS-504 program. MIT was in complete accord 
+with us on this matter.</p>
 
-        <p>I would like to include a couple of remarks here regarding the programs
-        for the AS-207/208 mission. Since it is intended to use only AS-504
-        programs and since it is possible to fly the AS-207/208 mission with a
-        number of the CSM AS-504 programs omitted, by definition we do not have
-        a storage problem for that mission. Our problem here--and it is a serious 
-        one--is that MIT maintains that we are considerably behind schedule.
-        Although we intend to initiate action designed to improve this situation,
-        it bas been recommended by MIT that a number of the AS-504 programs
-        be deleted which are not essential for the AS-207/208 mission. Some of
-        us at MSC are concerned that, although this may improve the schedule
-        situation for AS-207/208, it may damage the schedule for AS-504, which
-        is probably even more undesirable. Accordingly, we intend to review
-        very carefully the overall schedule situation before any of the AS-504
-        programs are omitted from the AS-207/208 programs. At the very least,
-        it is intended that al1 internal programm interfaces be provided to insure 
-        the maximum similarity between the AS-207/208 and AS-504 programs.
-        In fact, it may even prove desirable to substitute dummy programs for
-        each of those deleted from the AS-504 program. MIT was in complete accord 
-        with us on this matter.</p>
+<p>MIT is still expressing concern over their ability to define, design,
+and implement the concentric flight plan routines in time for including
+them in the AS-207/208 LEM program. However, they indicated that they
+could continue with development of the Guidance System Operations Plan
+(GSOP) for the AS-207/208 with those capabilities included for at least
+six weeks without any schedule impact. Thereafter they feel that if
+they have not arrived at an acceptable solution, it may be necessary
+to drop these routines, which are considered mandatory by MSC, from
+the AS-207/208 program. I personally have every intention of making
+sure that they are not dropped, but there seemed to be no need to argue
+this point at this time since it has no influence on the current course
+of action.</p>
 
-        <p>MIT is still expressing concern over their ability to define, design,
-        and implement the concentric flight plan routines in time for including
-        them in the AS-207/208 LEM program. However, they indicated that they
-        could continue with development of the Guidance System Operations Plan
-        (GSOP) for the AS-207/208 with those capabilities included for at least
-        six weeks without any schedule impact. Thereafter they feel that if
-        they have not arrived at an acceptable solution, it may be necessary
-        to drop these routines, which are considered mandatory by MSC, from
-        the AS-207/208 program. I personally have every intention of making
-        sure that they are not dropped, but there seemed to be no need to argue
-        this point at this time since it has no influence on the current course
-        of action.</p>
+<p>At the conclusion of the discussions of the AS-504 programs, MIT agreed
+that there was nothing more MSC could do to enhance the schedule situation 
+for the AS-504 program. That is, further deletions of the program requirements 
+would not help in any way. This was stated and restated
+several times to insure that MSC would not subsequently be notified
+that schedules could not be met as a result of excessive demands by
+MSC in the area of program requirements.</p>
 
-        <p>At the conclusion of the discussions of the AS-504 programs, MIT agreed
-        that there was nothing more MSC could do to enhance the schedule situation 
-        for the AS-504 program. That is, further deletions of the program requirements 
-        would not help in any way. This was stated and restated
-        several times to insure that MSC would not subsequently be notified
-        that schedules could not be met as a result of excessive demands by
-        MSC in the area of program requirements.</p>
+<p class="signature">Howard W. Tindall, Jr.</p>
 
-        <p class="signature">Howard W. Tindall, Jr.</p>
-
-        <div class="addressees">
-            <div>Addressees:</div>
-            <ul>
-                <li>CA/D. K. Slayton</li>
-                <li>CB/A, B. Shepard</li>
-                <li>CB/J. A. McDivitt</li>
-                <li>CB/E. E. Aldrin, Jr.</li>
-                <li>CB/R. L. Schweickart</li>
-                <li>CF/W. J. North</li>
-                <li>CF/C. H. Woodling</li>
-                <li>CF/P. Kramer</li>
-                <li>CF/C. C. Thomas</li>
-                <li>EG/R. C. Duncan</li>
-                <li>EG2/D. C. Cheatham</li>
-                <li>EG4/R. A. Gardiner</li>
-                <li>EG44/W. J. Rhine</li>
-                <li>PA/J. F. Shea</li>
-                <li>PA/W. A. Lee</li>
-                <li>PD/R. W. Williams</li>
-                <li>PD4/A. Cohen</li>
-                <li>PF/R. W. Lanzkron</li>
-                <li>PM/O. E. Maynard</li>
-                <li>PM2/C. H. Perrine</li>
-                <li>PM2/R. J. Ward</li>
-                <li>FA/C. C. Kraft, Jr.</li>
-                <li>FA/S. A. Sjoberg</li>
-                <li>FA/R. G. Rose</li>
-                <li>FC/J. D. Hodge</li>
-                <li>FC/D. R. Owen</li>
-                <li>FC2/E. F. Kranz</li>
-                <li>FC3/A. D. Aldrich</li>
-                <li>FC4/M. F. Brooks</li>
-                <li>FC5/G. S. Lunney</li>
-                <li>FC6/H. G. Miller</li>
-                <li>FC7/R. A. Hoover</li>
-                <li>FC8/C. A. Beers</li>
-                <li>FC/J. L. Tomberlin</li>
-                <li>FC/G. F. Meyer</li>
-                <li>FC/P. C. Shaffer</li>
-                <li>FM/J. P. Mayer</li>
-                <li>FM13/J. P. Bryant</li>
-                <li>FM14/R. P. Parten</li>
-                <li>FM/M. V. Jenkins</li>
-                <li>FM/Branch Chiefs</li>
-                <li>FM2/AGPS</li>
-                <li>FM2/T. F. Gibson</li>
-                <li>FM2/R. O. Nobles</li>
-                <li>FM:EWT:ps</li>
-            </ul>
-        </div>
-    </body>
-</html>
+<div class="addressees">
+    <div>Addressees:</div>
+    <ul>
+        <li>CA/D. K. Slayton</li>
+        <li>CB/A, B. Shepard</li>
+        <li>CB/J. A. McDivitt</li>
+        <li>CB/E. E. Aldrin, Jr.</li>
+        <li>CB/R. L. Schweickart</li>
+        <li>CF/W. J. North</li>
+        <li>CF/C. H. Woodling</li>
+        <li>CF/P. Kramer</li>
+        <li>CF/C. C. Thomas</li>
+        <li>EG/R. C. Duncan</li>
+        <li>EG2/D. C. Cheatham</li>
+        <li>EG4/R. A. Gardiner</li>
+        <li>EG44/W. J. Rhine</li>
+        <li>PA/J. F. Shea</li>
+        <li>PA/W. A. Lee</li>
+        <li>PD/R. W. Williams</li>
+        <li>PD4/A. Cohen</li>
+        <li>PF/R. W. Lanzkron</li>
+        <li>PM/O. E. Maynard</li>
+        <li>PM2/C. H. Perrine</li>
+        <li>PM2/R. J. Ward</li>
+        <li>FA/C. C. Kraft, Jr.</li>
+        <li>FA/S. A. Sjoberg</li>
+        <li>FA/R. G. Rose</li>
+        <li>FC/J. D. Hodge</li>
+        <li>FC/D. R. Owen</li>
+        <li>FC2/E. F. Kranz</li>
+        <li>FC3/A. D. Aldrich</li>
+        <li>FC4/M. F. Brooks</li>
+        <li>FC5/G. S. Lunney</li>
+        <li>FC6/H. G. Miller</li>
+        <li>FC7/R. A. Hoover</li>
+        <li>FC8/C. A. Beers</li>
+        <li>FC/J. L. Tomberlin</li>
+        <li>FC/G. F. Meyer</li>
+        <li>FC/P. C. Shaffer</li>
+        <li>FM/J. P. Mayer</li>
+        <li>FM13/J. P. Bryant</li>
+        <li>FM14/R. P. Parten</li>
+        <li>FM/M. V. Jenkins</li>
+        <li>FM/Branch Chiefs</li>
+        <li>FM2/AGPS</li>
+        <li>FM2/T. F. Gibson</li>
+        <li>FM2/R. O. Nobles</li>
+        <li>FM:EWT:ps</li>
+    </ul>
+</div>
