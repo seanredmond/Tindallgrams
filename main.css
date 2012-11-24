@@ -70,8 +70,26 @@ body {
     line-height: 2;
 }
 
-table td {
+table {
+    border-collapse: collapse;
+    font-size: 85%;
+}
+
+.main-index tr:nth-child(even) {
+    background-color: #eee;
+}
+
+.main-index td:nth-child(1) {
+    width: 6em;
+}
+
+.main-index td:nth-child(2) {
+    width: 7em;
+}
+
+table td, table th {
     padding: .5em 1em;
+    border: 1px solid black;
 }
 
 h1 {
