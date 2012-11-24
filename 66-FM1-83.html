@@ -1,0 +1,55 @@
+<header>
+    <div class="to">TO: See list</div>
+    <div class="from">FROM: FM/Deputy Chief, Mission Planning and Analysis Division</div>
+    <div class="date">DATE: Jul 11 1966</div>
+    <div class="serial">66-FM1-83</div>
+    <div class="subject">SUBJECT: Apollo rendezvous guidance computer program options report</div>
+</header>
+
+<p>The purpose of this memorandum is to inform you of two special features
+of the Apollo spacecraft rendezvous guidance computer program you may
+not be aware of since we just added them to the system.</p>
+
+<p>First of all, you recall that both spacecraft--the CSM and the LEM--
+have rendezvous guidance systems. In order for the computers to determine 
+what maneuvers are required to bring about rendezvous, the basic
+thing each of the computers needs is the state vectors--that is, orbital
+elements--of both vehicles. Up until now, all thought has apparently
+been given to the LEM program. Since the CSM is supposed to be passive,
+all radar data is used to update the <span class="ul">LEM</span> state vector, based on the
+assumption that the CSM it is tracking is in a well known, unchanging
+orbit. Also, as the LEM makes maneuvers, the guidance system senses
+them and so there is no need for a pilot input to the computer to inform 
+it that they were made. However, when we consider what's going
+on in the CSM, or in the LEM during a CSM rescue, this doesn't look so
+hot.</p>
+
+<p>First of all, the computer may really have a better defined state vector
+for its oen spacecraft, making it more desirable to update the state vector 
+of the other vehicle. Therefore, pilot control is needed over which
+spacecraft state vector should be updated based on the radar and optical
+observations. This will allow the pilot to exercise his best judgment
+as opposed to providing some sort of autonmatic logic built into the computer 
+program. Also, if the other vehicle maneuvers, the computer won't
+know it unless informed by some external source, like the crew. For this
+reason and others, it is also necessary to include in both the CSM and
+LEM computer programs the capability for the pilot to input to the computer 
+the fact that the other spacecraft is making a maneuver such that
+it can be taken into account in maintaining the best current state vector
+of each spacecraft in each spacecraft's computer.</p>
+
+<p>Accordingly, both of these options are being provided; that is, the crew
+will, inform the computer which spacecraft state vector should be updated
+and he shall also input to the computer all necessary information when the
+other vehicle makes a maneuver. Associated with this latter capability
+is the need to assure that the observational data is not improperly used.
+Therefore, in order to avoid complex and sophisticated computer logic, we
+have decided to again utilize the crew's capability to understand the
+situation and control the computer processing in the following way. The
+pilot will interrupt the computer program at the time it is planned that
+the other vehicle will make the maneuver, which will cause the computer
+to reject all tracking data until the actual ΔV of the maneuver is input.
+He will have to get this information by voice from the other spacecraft
+after the manneuver is executed, of course. This procedure will assure
+that the quantities which are input are the most accurate available and
+should assure that the observational data is used properly.</p>
