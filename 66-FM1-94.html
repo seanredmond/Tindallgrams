@@ -1,0 +1,107 @@
+<header>
+    <div class="to">TO: See list</div>
+    <div class="from">FROM: FM/Deputy Chief, Mission Planning and Analysis Division</div>
+    <div class="date">DATE: Jul 18 1966</div>
+    <div class="serial">66-FM1-94</div>
+    <div class="subject">SUBJECT: Rendezvous terminal phase guidance program in the Apollo spacecraft computer</div>
+</header>
+
+<p>On July 7, 1966, a team of MSC and MIT "experts in rendezvous" (including 
+Paul Krammer, Ed Lineberry, John Dahlen, and Norm Sears) met
+at MIT to discuss and review the preliminary Guidance System Operation
+Plan (GSOP) which MIT has unofficially distributed, covering the terminal 
+phase and External ΔV programs for the AS-207/208 mission. This
+meeting was sort of a mile-pebble in the accelerated program development 
+sequence we have established in an attempt to get all this business
+on schedule. That is, we are obtaining bits and pieces of the GSOP as
+they come off the MIT press rather than awaiting receipt of the formally
+published, final document.</p>
+
+<p>It is our hope that, by reviewing and commenting on these pieces as
+they become available, the GSOP should be virtually acceptable without
+modification on the date of its publication and should permit the computer 
+program development to proceed much more quickly than it has in
+the past. We had previously discussed these mission programs and our
+pilot inpat and display requirements for them in detail a month or so
+ago with MIT, and the pieces of the GSOP I am talking about here reflected 
+that input very well. Therefore, most of the discussion was
+for purposes of clarification to assure a firm understanding on both
+MSC's and MIT's part as to what this program was really going to do and
+how we were going to operate it. Basically, very few modifications were
+considered necessary.</p>
+
+<p>In my opinion, this meeting was highly successful; and, since these
+processors--the terminal phase and External ΔV--are the most significant 
+new requirements and the most controversial of the mission programs, 
+I feel we are probably over the hump as far as defining the
+program for the AS-207/208 mission.</p>
+
+<p>I would like to point out here the two items given the most attention
+at this meeting since they serve well to describe the character of the
+terminal phase rendezvous guidance philosophy:</p>
+
+<ul>
+	<li>1. One of the capabilities of most interest which we have provided
+	was the display of range, range rate, and the angle the spacecraft X-axis
+	makes with respect to the local horizontal. It was decided to make these
+	three quantities available at crew request at any time the data was
+	available. (This stuff is used for carrying out the crew backup procedures.) 
+	Contrary to one of my previous reports, these quantities will 
+	all be computed based on the current best estimate of the two spacecraft
+	state vectors. (We had previously expressed an intention for the computer to display raw radar range and range rate in the LEM). Our action
+	in this case was based on our desire to make the CSM and LEM computer
+	programs as much the same as possible, and, since the raw radar data is
+	available on what is said to be a highly accurate analog display in the
+	LEM we have not really lost anything. In order to make this particular
+	feature of the program as independent as possible from the automatic
+	guidance system processing, we have divorced the display of these quantities 
+	from the activity associated with the primary guidance system to
+	the maximum extent.</li>
+
+	<li>2. Based on Gemini experience, the crew has emphasized that there
+	is no requirement for automatic execution of the braking maneuvers by
+	the G&amp;N system. As previously reported, it is felt that this task can
+	be carried out just as well, if not better, by the crew if they are provided 
+	the proper information; namely, the range and range rate data.
+	At least this is true in the case of the nominal mission and most contingency 
+	situations, and we want to take advantage of that. However,
+	there are occasions when automatic control of these maneuvers by the
+	G&amp;N might be mandatory. For example, visual acquisition is required for
+	the crew to carry out this task, and under some abort situations lighting
+	conditions can be unacceptable. Also, there are abort cases in which
+	the closing velocity is too high for effective manual control. Recognizing 
+	that procedures are available for utilizing the remaining computer 
+	processors to cairry out the G&amp;N controlled braking maneuvers by
+	proper pilot manipulation of the computer, we deleted the requirement
+	for automatic computer logic for this task. The point is, we felt that
+	there was insufficient justification to carry out the extra programming,
+	debugging, verification, and documentation, as well as using some 50 to
+	100 words of precious computer storage, for a program which was not
+	needed, except in rather remote contingency situations, as long as procedures 
+	were available to handle all situations. And, they are.</li>
+</ul>
+
+<p>The final GSOP shall reflect these characteristics; otherwise, it was
+accepted pretty well as is.</p>
+
+<p>In the course of our discussions, I learned some rather interesting things
+about the command module which I must say didn't impress me very favorably. 
+In fact, I really wonder (i.e., doubt) if it is possible for one
+crew member to carry out a rendezvous in the CSM. For example, the only
+observational data available to the computer is from the sextant, and
+that requires manual tracking and input of observations into the computer.
+(The LEM has automatic radar tracking with its data available to the
+computer as it periodica]ly requests it.) And, of course, in order for
+the pilot to use this system, he has to be down in the navigation area
+of the spacecraft, which means he has to quit making observations sometime 
+before any SPS maneuver to get strapped into his seat. On top of
+that, the sextant apparently can't be oriented along any of the major
+spacecraft axes, which makes it necessary to orient to some attitude
+not consistent with making RCS midcourse maneuvers.</p>
+
+<p>I'll bet that when we finally get a crew timeline on a CSM one-man
+rendezvous, he has to do it without any observational data available
+to the computer after about 15 minutes before TPI. If my guess is
+right, in effect we have provided practically no CSM G&amp;N rendezvous
+guidance system, and thus the job will end up being carried out pretty
+much using the crew backup procedures. Boy!</p>
