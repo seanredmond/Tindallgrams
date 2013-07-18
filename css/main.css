@@ -60,8 +60,30 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+body {
+    width: 960px;
+    margin: 2em auto;
+}
 
+h1 {
+    font-family: 'Oswald', sans-serif; 
+}
 
+.bigquote {
+    background: #f1f1f1;
+    font-family: "Time New Roman";
+    font-size: 150%;
+    font-style: italic;
+    padding: 1em;
+    margin: 0 0 1em 1em;
+    width: 50%;
+    float: right;
+}
+
+.bigquote .dated {
+    text-align: right;
+    font-size: 75%;
+}
 
 
 
