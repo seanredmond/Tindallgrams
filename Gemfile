@@ -1,15 +1,7 @@
+# Based on https://github.com/himynameisjonas/jekyll-heroku-unicorn
 Encoding.default_external = Encoding::UTF_8
 Encoding.default_internal = Encoding::UTF_8
 source 'https://rubygems.org'
-
-gem 'fleakr', github: 'himynameisjonas/fleakr'
-gem 'dalli'
-
-gem 'babosa'
-
-gem 'thor'
-gem 'stringex'
-gem 'pygmentize'
 
 gem 'rackables'
 gem 'jekyll', '~> 1.0.2'
