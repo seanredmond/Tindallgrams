@@ -93,6 +93,12 @@ h1 {
     margin: 2em auto;
 }
 
+.tindallgram h1 {
+    font-family: Courier, serif;
+    font-size: 100%;
+    font-weight: normal;
+    text-decoration: underline;
+}
 
 
 
