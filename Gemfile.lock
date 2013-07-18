@@ -1,0 +1,62 @@
+GIT
+  remote: git://github.com/adaoraul/rack-jekyll.git
+  revision: 6a4b832c5b2350c8c1263b534ebf02135deb6363
+  ref: 6a4b832c5b2350c8c1263b534ebf02135deb6363
+  specs:
+    rack-jekyll (0.4.0)
+      jekyll (>= 0.12.0, < 2.0)
+      rack (~> 1.5.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    classifier (1.3.3)
+      fast-stemmer (>= 1.0.0)
+    colorator (0.1)
+    commander (4.1.3)
+      highline (~> 1.6.11)
+    directory_watcher (1.4.1)
+    fast-stemmer (1.0.2)
+    highline (1.6.19)
+    jekyll (1.0.3)
+      classifier (~> 1.3)
+      colorator (~> 0.1)
+      commander (~> 4.1.3)
+      directory_watcher (~> 1.4.1)
+      kramdown (~> 1.0.2)
+      liquid (~> 2.3)
+      maruku (~> 0.5)
+      pygments.rb (~> 0.5.0)
+      safe_yaml (~> 0.7.0)
+    kgio (2.8.0)
+    kramdown (1.0.2)
+    liquid (2.5.0)
+    maruku (0.6.1)
+      syntax (>= 1.0.0)
+    posix-spawn (0.3.6)
+    pygments.rb (0.5.2)
+      posix-spawn (~> 0.3.6)
+      yajl-ruby (~> 1.1.0)
+    rack (1.5.2)
+    rack-subdomain (0.3.0)
+      rack (>= 1.2.0, <= 2.0.0)
+    rackables (0.3.0)
+      rack
+    raindrops (0.11.0)
+    safe_yaml (0.7.1)
+    syntax (1.0.0)
+    unicorn (4.6.3)
+      kgio (~> 2.6)
+      rack
+      raindrops (~> 0.7)
+    yajl-ruby (1.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  jekyll (~> 1.0.2)
+  rack-jekyll!
+  rack-subdomain
+  rackables
+  unicorn
