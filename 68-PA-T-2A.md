@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: tindallgram
 title: 68-PA-T-2A
 date: Jan 11 1968
 from: PA/Chief, Apollo Data Priority Coordination
