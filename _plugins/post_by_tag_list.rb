@@ -42,4 +42,34 @@ module Jekyll
   end
 end
 
+module Jekyll
+  class PageTagsTag < Liquid::Tag
+    def initialize(tag_name, markup, tokens)
+      super
+    end
+
+    def render(context)
+      tags = context.environments.first["page"]['tags']
+
+      if tags == nil
+        return
+      end
+
+      output = "<ul>"
+      tags.sort.each do |tag|
+        output += %Q|
+<li class="tags">
+  <a href="/tags\##{tag}">#{tag}</a>
+</li>|
+      end
+
+      output += "</li>"
+
+
+      return output
+    end
+  end
+end
+
 Liquid::Template.register_tag('postsbytag', Jekyll::TagListTag)
+Liquid::Template.register_tag('pagetags', Jekyll::PageTagsTag)
