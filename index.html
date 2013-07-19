@@ -15,12 +15,8 @@ title: Your New Jekyll Site
 
   <p>In 1966, as the American space program was working furiously towards a moon landing, Howard W. “Bill” Tindall, Jr., arrived at MIT to oversee the development of software for the spacecraft guidance systems. Guidance systems where revoutionary, there was controversy over how astronauts and computers would share control of the spaceflights, and software was a new aspect of systems engineering whose importance was vastly underappreciated. Tindall found a lot of brilliant people at MIT working in development program that was behind schedule, was failing to meet its requirements, and threatened to become, in his words, “the most pacing item for the Apollo flights.” He dove into the task of refashioning every aspect of the software development process, writing a series of frank memos that entered NASA lore under the name “Tindalgrams.”</p>
 
+
   <h2>Index of Tindallgrams</h2>
-  <ul class="posts">
-    {% for post in site.pages %}
-      {% if post.serial != nil %}
-      <li><span>{{ post.date | date_to_string }}</span> {{ post.serial }} <a href="{{ post.url }}">{{ post.subject }}</a></li>
-        {% endif %}
-    {% endfor %}
-  </ul>
+  {% tgramlist %}
+
 </div>
