@@ -128,6 +128,21 @@ h1 {
     }
 }
 
+.tindallgram-index {
+
+    tr:nth-child(2n) {
+        background-color: #f1f1f1;
+    }
+
+    td {
+        padding: .25em 1em;
+    }
+
+    a {
+        color: black;
+    }
+
+}
 @import "_assets/tindallgram";
 
 
