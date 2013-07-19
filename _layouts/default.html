@@ -10,12 +10,13 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width">
 
-        <link rel="stylesheet" href="/css/normalize.min.css">
         <link href='http://fonts.googleapis.com/css?family=Oswald' 
             rel='stylesheet' 
             type='text/css'>
-        <link rel="stylesheet" href="/css/main.css">
-
+        {% css_asset_tag global %}
+            - /_assets/normalize.min.css
+            - /_assets/main.scss
+        {% endcss_asset_tag %}
         <script src="/js/modernizr-2.6.2.min.js"></script>
     </head>
     <body>

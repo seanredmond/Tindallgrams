@@ -28,6 +28,9 @@ GEM
       maruku (~> 0.5)
       pygments.rb (~> 0.5.0)
       safe_yaml (~> 0.7.0)
+    jekyll-asset-pipeline (0.1.2)
+      jekyll (>= 0.10.0)
+      liquid (>= 1.9.0)
     kgio (2.7.4)
     kramdown (1.0.2)
     liquid (2.5.0)
@@ -44,6 +47,7 @@ GEM
     rackables (0.2.0)
     raindrops (0.10.0)
     safe_yaml (0.7.1)
+    sass (3.2.8)
     syntax (1.0.0)
     unicorn (4.3.1)
       kgio (~> 2.6)
@@ -56,8 +60,10 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 1.0.2)
+  jekyll-asset-pipeline
   rack-jekyll!
   rack-rewrite
   rack-subdomain
   rackables
+  sass
   unicorn
