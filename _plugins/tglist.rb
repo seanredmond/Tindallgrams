@@ -1,3 +1,5 @@
+require 'date'
+
 module Jekyll
   class TindallGramListTag < Liquid::Tag
     def initialize(tag_name, markup, tokens)
@@ -6,7 +8,7 @@ module Jekyll
 
     def render(context)
       tgrams = context.registers[:site].pages.reject{|p| p.data['layout'] != 'tindallgram'}.
-        sort{|a, b| b.data['date'] <=> a.data['date']}
+        sort{|a, b| DateTime.strptime(a.data['date'], '%b %d %Y') <=> DateTime.strptime(b.data['date'], '%b %d %Y')}
 
       output = '<table><tbody>'
 
