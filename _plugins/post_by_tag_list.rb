@@ -55,7 +55,7 @@ module Jekyll
         return
       end
 
-      output = "<ul>"
+      output = "Tagged: <ul>"
       tags.sort.each do |tag|
         output += %Q|
 <li class="tags">
