@@ -75,6 +75,8 @@ h1 {
 }
 
 #home {
+    position: relative;
+
     h1 {
     }
 
@@ -82,6 +84,16 @@ h1 {
         font-family: 'Oswald', sans-serif;
         font-size: 1.25em;
         letter-spacing: 2px;
+    }
+
+    .ddg-search {
+        position: absolute;
+        top: 15px;
+        right: 0;
+
+        iframe {
+            border: none;
+        }
     }
 }
 
