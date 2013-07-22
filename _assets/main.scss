@@ -75,6 +75,8 @@ h1 {
 }
 
 #home {
+    position: relative;
+
     h1 {
     }
 
@@ -84,6 +86,17 @@ h1 {
         letter-spacing: 2px;
     }
 }
+
+.ddg-search {
+    position: absolute;
+    top: 15px;
+    right: 0;
+
+    iframe {
+        border: none;
+    }
+}
+
 
 .bigquote {
     background: #f1f1f1;
@@ -103,6 +116,8 @@ h1 {
 
 .header {
     &.inner {
+        position: relative;
+        
         a {
             color: black;
             text-decoration: none;
