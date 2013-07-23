@@ -136,6 +136,18 @@ h1 {
 
     td {
         padding: .25em 1em;
+
+        &.serial {
+            min-width: 7em;
+        }
+
+        &.date {
+            min-width: 6em;
+        }
+
+        &.sources {
+            min-width: 3em;
+        }
     }
 
     a {
