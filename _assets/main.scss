@@ -130,8 +130,14 @@ h1 {
 
 .tindallgram-index {
 
-    tr:nth-child(2n) {
-        background-color: #f1f1f1;
+    tr {
+        &:nth-child(2n) {
+            background-color: #f1f1f1;
+        }
+
+        &.published:hover {
+            background-color: #aaddee;
+        }
     }
 
     td {
