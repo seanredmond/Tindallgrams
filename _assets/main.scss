@@ -128,6 +128,15 @@ h1 {
     }
 }
 
+table.sources {
+    font-size: 90%;
+    margin-bottom: 2em;
+
+    .source {
+        min-width: 2em;
+    }
+}
+
 .tindallgram-index {
 
     tr {
