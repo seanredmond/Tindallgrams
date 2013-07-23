@@ -143,14 +143,41 @@ h1 {
     }
 }
 
+table.sources {
+    font-size: 90%;
+    margin-bottom: 2em;
+
+    .source {
+        min-width: 2em;
+    }
+}
+
 .tindallgram-index {
 
-    tr:nth-child(2n) {
-        background-color: #f1f1f1;
+    tr {
+        &:nth-child(2n) {
+            background-color: #f1f1f1;
+        }
+
+        &.published:hover {
+            background-color: #aaddee;
+        }
     }
 
     td {
         padding: .25em 1em;
+
+        &.serial {
+            min-width: 7em;
+        }
+
+        &.date {
+            min-width: 6em;
+        }
+
+        &.sources {
+            min-width: 3em;
+        }
     }
 
     a {

@@ -1,0 +1,3000 @@
+--- 
+tindallgrams: 
+  - 
+    date: 1966-12-05
+    serial: 66-FM1-59
+    sources: 
+      - 2
+    subject: "Spacecraft computer program requirements for AS-207/208, AS-503, and AS-504"
+  - 
+    date: 1966-05-16
+    serial: 66-FM1-60
+    sources: 
+      - 2
+    subject: "Comments on the AS-207/208 Preliminary Spacecraft Reference Trajectory"
+  - 
+    date: 1966-05-27
+    serial: 66-FM1-64
+    sources: 
+      - 2
+    subject: "CSM orbit determination using the LEM radar"
+  - 
+    date: 1966-05-31
+    serial: 66-FM1-68
+    sources: 
+      - 7
+    subject: "Apollo spacecraft computer program development newsletter"
+  - 
+    date: 1966-06-02
+    serial: 66-FM1-70
+    sources: 
+      - 2
+    subject: "Spacecraft computer program status report"
+  - 
+    date: 1966-06-13
+    serial: 66-FM1-75
+    sources: 
+      - 7
+    subject: "Apollo spacecraft computer programs--or, a bucket of worms"
+  - 
+    date: 1966-07-01
+    serial: 66-FM1-78
+    sources: 
+      - 7
+    subject: "Another Apollo spacecraft computer program status report"
+  - 
+    date: 1966-06-11
+    serial: 66-FM1-83
+    sources: 
+      - 2
+    subject: "Apollo rendezvous guidance computer program options"
+  - 
+    date: 1966-07-11
+    serial: 66-FM1-84
+    sources: 
+      - 2
+    subject: "Capability to do orbit navigation in earth orbit will not be implemented for AS-207 or AS-504"
+  - 
+    date: 1966-07-08
+    serial: 66-FM1-85
+    sources: 
+      - 2
+    subject: "Determination of relative CSM orbit"
+  - 
+    date: 1966-07-08
+    serial: 66-FM1-86
+    sources: 
+      - 2
+    subject: "No special program available for targeting the CSM plane change in lunar orbit"
+  - 
+    date: 1966-07-11
+    serial: 66-FM1-89
+    sources: 
+      - 2
+    subject: "LEM radar angle bias correction"
+  - 
+    date: 1966-07-18
+    serial: 66-FM1-94
+    sources: 
+      - 2
+    subject: "Rendezvous terminal phase guidance program in the Apollo spacecraft computer"
+  - 
+    date: 1966-07-21
+    serial: 66-FM1-95
+    sources: 
+      - 7
+    subject: "AS-204 computer program status"
+  - 
+    date: 1966-08-30
+    serial: 66-FM1-100
+    sources: 
+      - 2
+    subject: "Notes regarding the AS-207/208 Guidance Systems Operations Plan (GSOP) meeting with MIT"
+  - 
+    date: 1966-08-30
+    serial: 66-FM1-103
+    sources: 
+      - 2
+    subject: "Automatic rendezvous braking maneuver"
+  - 
+    date: 1966-09-02
+    serial: 66-FM1-104
+    sources: 
+      - 2
+    subject: "Status of the lunar module \"quick return\" guidance capability"
+  - 
+    date: 1966-09-19
+    serial: 66-FM1-107
+    sources: 
+      - 2
+    subject: "Alternate rendezvous technique - mission planning status"
+  - 
+    date: 1966-09-20
+    serial: 66-FM1-108
+    sources: 
+      - 7
+    subject: "Spacecraft computer program status for AS-501"
+  - 
+    date: 1966-09-21
+    serial: 66-FM1-109
+    sources: 
+      - 2
+    subject: "Mission rules needed for use with AGC self-check"
+  - 
+    date: 1966-09-21
+    serial: 66-FM1-110
+    sources: 
+      - 2
+    subject: "LGC computer requirements to provide DPS backup of SPS"
+  - 
+    date: 1966-09-21
+    serial: 66-FM1-111
+    sources: 
+      - 2
+    subject: "Rendezvous search modes of various types"
+  - 
+    date: 1966-09-21
+    serial: 66-FM1-112
+    sources: 
+      - 2
+    subject: "Apollo rendezvous navigation data edit is too complicated"
+  - 
+    date: 1966-09-21
+    serial: 66-FM1-113
+    sources: 
+      - 2
+    subject: "There are differences in the descent guidance programs on AS-503 and AS-504"
+  - 
+    date: 1966-09-22
+    serial: 66-FM1-114
+    sources: 
+      - 2
+    subject: "Apollo spacecraft guidance navigation modes currently planned for AS-$03 and AS-504"
+  - 
+    date: 1966-09-27
+    serial: 66-FM1-115
+    sources: 
+      - 2
+    subject: "LGC program development for the AS-278B"
+  - 
+    date: 1966-10-04
+    serial: 66-FM1-118
+    sources: 
+      - 2
+    subject: "No extra memory for the Apollo Spacecraft Computer"
+  - 
+    date: 1966-10-11
+    serial: 66-FM1-123
+    sources: 
+      - 2
+    subject: "Procedure for obtaining Apollo Spacecraft Computer Program schedule information"
+  - 
+    date: 1966-10-11
+    serial: 66-FM1-124
+    sources: 
+      - 2
+    subject: "Program Development Plans are coming!!"
+  - 
+    date: 1966-10-12
+    serial: 66-FM1-129
+    sources: 
+      - 2
+    subject: "Cursory definition of Spacecraft Computer Program capabilities currently planned for AS-503 and AS-504"
+  - 
+    date: 1966-10-12
+    serial: 66-FM1-130
+    sources: 
+      - 2
+    subject:  Altitude and velocity limits imposed by the spacecraft computer program on the AS-503 mission
+  - 
+    date: 1966-10-10
+    serial: 66-FM1-131
+    sources: 
+      - 2
+    subject: "More on Program Development"
+  - 
+    date: 1966-10-14
+    serial: 66-FM1-132
+    sources: 
+      - 2
+    subject: "LGC program requirements and mission constraints on alternate mission AS-278B"
+  - 
+    date: 1966-10-14
+    serial: 66-FM1-133
+    sources: 
+      - 2
+    subject: "AS-206 LGC program status"
+  - 
+    date: 1966-10-17
+    serial: 66-FM1-135
+    sources: 
+      - 2
+    subject: "Verification of LGC when powered-up in space"
+  - 
+    date: 1966-10-17
+    serial: 66-FM1-136
+    sources: 
+      - 2
+    subject: "Apollo Spacecraft Computer Program Schedule"
+  - 
+    date: 1966-10-17
+    serial: 66-FM1-137
+    sources: 
+      - 2
+    subject: "Another AGC program development report"
+  - 
+    date: 1966-11-03
+    serial: 66-FM1-141
+    sources: 
+      - 2
+    subject: "AGC program for AS-501/502 - Final status report"
+  - 
+    date: 1966-11-01
+    serial: 66-FM1-142
+    sources: 
+      - 2
+    subject: "In which some items of interest regarding the AS-206 LGC program status are discussed"
+  - 
+    date: 1966-11-14
+    serial: 66-FM1-148
+    sources: 
+      - 2
+    subject: "AGS program status for AS-278"
+  - 
+    date: 1966-11-14
+    serial: 66-FM1-151
+    sources: 
+      - 2
+    subject: "Ground rules for MIT man loading for AGC programming"
+  - 
+    date: 1966-11-25
+    serial: 66-FM1-168
+    sources: 
+      - 2
+    subject: "Small program change needed in the AS-501/502 AGC program"
+  - 
+    date: 1966-11-28
+    serial: 66-FM1-169
+    sources: 
+      - 2
+    subject: "LGC program status for AS-206"
+  - 
+    date: 1966-11-28
+    serial: 66-FM1-170
+    sources: 
+      - 2
+    subject: "More interesting things about our work with MIT"
+  - 
+    date: 1966-12-22
+    serial: 66-FM1-188
+    sources: 
+      - 2
+    subject: "DAP initialization simplification"
+  - 
+    date: 1966-12-22
+    serial: 66-FM1-189
+    sources: 
+      - 2
+    subject: "We've bit the bullet on GRR"
+  - 
+    date: 1966-12-22
+    serial: 66-FM1-191
+    sources: 
+      - 2
+    subject: "MIT's digital computers are saturated until the IBM 360 becomes operational"
+  - 
+    date: 1967-01-09
+    serial: 67-FM1-1
+    sources: 
+      - 2
+    subject: "Uplink will be on LM-4"
+  - 
+    date: 1967-01-09
+    serial: 67-FM1-2
+    sources: 
+      - 3
+    subject: "Proceedures needed for the AS-503 TLI maneuver"
+  - 
+    date: 1967-01-09
+    serial: 67-FM1-3
+    sources: 
+      - 2
+      - 3
+    subject: "Rope manufacture for AS-502"
+  - 
+    date: 1967-01-10
+    serial: 67-FM1-4
+    sources: 
+      - 2
+      - 3
+    subject: "No special spacecraft computer programs are to be developed for AS-208B and AS-503"
+  - 
+    date: 1967-01-10
+    serial: 67-FM1-5
+    sources: 
+      - 2
+      - 3
+    subject: "Significant modifications currently planned in the Apollo Spacecraft Computer Programs"
+  - 
+    date: 1967-01-13
+    serial: 67-FM1-6
+    sources: 
+      - 3
+    subject: "AS-504 Spacecraft Computer Programs will be able to support earth orbital and lunar missions"
+  - 
+    date: 1967-01-13
+    serial: 67-FM1-7
+    sources: 
+      - 3
+    subject: "Why is it everyone who likes radar wears a white hat?"
+    uncertain: date
+  - 
+    date: 1967-01-23
+    serial: 67-FM1-8
+    sources: 
+      - 3
+    subject: "Justification for SCAMA circuit to MIT/Boston"
+  - 
+    date: 1967-01-23
+    serial: 67-FM1-9
+    sources: 
+      - 2
+      - 3
+    subject: "Latest on the AS-206 spacecraft computer program"
+  - 
+    date: 1967-01-23
+    serial: 67-FM1-10
+    sources: 
+      - 3
+    subject: "AS-504 spacecraft computer program and storage status. Also a dash of AS-258"
+  - 
+    date: 1967-01-25
+    serial: 67-FM1-11
+    sources: 
+      - 3
+    subject: "More about computer self-check"
+  - 
+    date: 1967-01-25
+    serial: 67-FM1-12
+    sources: 
+      - 3
+    subject: "Why does the AAP command module need a sextant?"
+  - 
+    date: 1967-01-25
+    serial: 67-FM1-13
+    sources: 
+      - 3
+    subject: "AGS Software Documentation"
+  - 
+    date: 1967-01-30
+    serial: 67-FM1-14
+    sources: 
+      - 3
+    subject: "Data for postflight analysis of the DAP"
+  - 
+    date: 1967-01-30
+    serial: 67-FM1-15
+    sources: 
+      - 3
+    subject: "Program interlocks - farewell"
+  - 
+    date: 1967-01-30
+    serial: 67-FM1-16
+    sources: 
+      - 3
+    subject: "AAP platform should be torqued to local horizontal"
+  - 
+    date: 1967-01-31
+    serial: 67-FM1-17
+    sources: 
+      - 2
+      - 3
+    subject: "AS-206 Spacecraft Computer Program Newsletter"
+  - 
+    date: 1967-02-03
+    serial: 67-FM1-18
+    sources: 
+      - 3
+    subject: "Spacecraft Computer Program Development Newsletter"
+  - 
+    date: 1967-03-02
+    serial: 67-FM1-19
+    sources: 
+      - 3
+    subject: "Progress Report - RTCC program development reduction - Review of requirements for AS-502 mission"
+  - 
+    date: 1967-02-23
+    serial: 67-FM1-20
+    sources: 
+      - 3
+    subject: "Star/landmark navigation exercise preflight planning"
+  - 
+    date: 1967-03-01
+    serial: 67-FM1-21
+    sources: 
+      - 3
+    subject: "Service Module RCS propellant remaining calculations in the CMC"
+    uncertain: date
+  - 
+    date: 1967-03-20
+    serial: 67-FM1-22
+    sources: 
+      - 3
+    subject: "AS-258 RTCC Retrofire Time Computation"
+  - 
+    date: 1967-03-23
+    serial: 67-FM1-23
+    sources: 
+      - 3
+    subject: "Summary of what needs to be done to develop flight confidence in the spacecraft computer programs"
+  - 
+    date: 1967-03-24
+    serial: 67-FM1-24
+    sources: 
+      - 3
+      - 7
+    subject: "In which is described the Apollo spacecraft computer programs currently being developed"
+  - 
+    date: 1967-03-27
+    serial: 67-FM1-25
+    sources: 
+      - 3
+    subject: None
+  - 
+    date: 1967-03-28
+    serial: 67-FM1-26
+    sources: 
+      - 3
+    subject: "Progress Report - RTCC program development - Review of AS-258(!) requirements"
+  - 
+    date: 1967-03-30
+    serial: 67-FM1-27
+    sources: 
+      - 3
+    subject: "Current plans for downlink of LM radar data"
+  - 
+    date: 1967-04-03
+    serial: 67-FM1-28
+    sources: 
+      - 3
+    subject: "LM S-band antenna boresight change presents no LGC problem"
+  - 
+    date: 1967-04-03
+    serial: 67-FM1-29
+    sources: 
+      - 3
+    subject: "Interim progress report - RTCC program development - AS-258(!) Ground Support Simulations Computer [GSSC] programs"
+  - 
+    date: 1967-04-18
+    serial: 67-FM1-30
+    sources: 
+      - 3
+    subject: "Proceed button"
+  - 
+    date: 1967-04-21
+    serial: 67-FM1-32
+    sources: 
+      - 3
+    subject: "Descent engine gimbal polarity error"
+  - 
+    date: 1967-04-21
+    serial: 67-FM1-33
+    sources: 
+      - 3
+    subject: "MIT's digital computer facilities are still a problem"
+    uncertain: date
+  - 
+    date: 1967-04-23
+    serial: 67-FM1-34
+    sources: 
+      - 3
+    subject: "Computer program requirements for AAP"
+  - 
+    date: 1967-04-23
+    serial: 67-FM1-35
+    sources: 
+      - 3
+    subject: "Notes from the MIT program development plan meeting of April 20"
+  - 
+    date: 1967-05-04
+    serial: 67-FM1-36
+    sources: 
+      - 3
+    subject: "Some things Mr. Copps is worried about"
+  - 
+    date: 1967-05-04
+    serial: 67-FM1-37
+    sources: 
+      - 3
+    subject: "Invitation to an AAP spacecraft computer program requirements shindig"
+  - 
+    date: 1967-05-17
+    serial: 67-FM1-38
+    sources: 
+      - 3
+      - 7
+    subject: "Reduced L/D presents a spacecraft computer program problem"
+  - 
+    date: 1967-05-17
+    serial: 67-FM1-39
+    sources: 
+      - 1
+      - 3
+      - 7
+    subject: "A new spacecraft computer program development working philosophy is taking shape"
+  - 
+    date: 1967-05-12
+    serial: 67-FM-T-40
+    sources: 
+      - 3
+    subject: "MIT can handle spacecraft computer program development for both Apollo and AAP to their mutual advantage"
+  - 
+    date: 1967-05-23
+    serial: 67-FM-T-41
+    sources: 
+      - 2
+      - 3
+      - 7
+    subject: "Spacecraft computer program names"
+  - 
+    date: 1967-07-26
+    serial: 67-FM-T-43
+    sources: 
+      - 3
+    subject: "LM is launched with air"
+  - 
+    date: 1967-07-26
+    serial: 67-FM-T-44
+    sources: 
+      - 3
+    subject: "Notes from ASPO Manager's staff meeting - July 24"
+  - 
+    date: 1967-07-27
+    serial: 67-FM-T-45
+    sources: 
+      - 3
+    subject: "Spacecraft computer program flow chart status"
+  - 
+    date: 1967-07-27
+    serial: 67-FM-T-46
+    sources: 
+      - 3
+    subject: "Landing point dispersion given communication loss in lunar orbit"
+  - 
+    date: 1967-07-27
+    serial: 67-FM-T-47
+    sources: 
+      - 3
+    subject: "LMSS RTCC program test documentation needed"
+  - 
+    date: 1967-07-27
+    serial: 67-FM-T-48
+    sources: 
+      - 3
+    subject: "Configuration control of the spacecraft computer programs for 504 is imminent"
+  - 
+    date: 1967-07-27
+    serial: 67-FM-T-49
+    sources: 
+      - 3
+    subject: "There will be no S-IVB ephemeris in teh RTCC after separation"
+  - 
+    date: 1967-07-27
+    serial: 67-FM-T-50
+    sources: 
+      - 3
+    subject: "Greater dispersion at entry on AS-501 with the new IMI"
+  - 
+    date: 1967-07-31
+    serial: 67-FM-T-51
+    sources: 
+      - 3
+    subject: "We're gonna' find out if the PAC is a good substitute for the flight ropes"
+  - 
+    date: 1967-08-01
+    serial: 67-FM-T-52
+    sources: 
+      - 3
+    subject: "Spacecraft computer program status - particularly Sundisk"
+  - 
+    date: 1967-07-31
+    serial: 67-FM-T-53
+    sources: 
+      - 3
+    subject: "Spacecraft computer storage requirement for restart protection"
+  - 
+    date: 1967-08-03
+    serial: 67-FM-T-54
+    sources: 
+      - 3
+    subject: "Verify Sundisk for CSM/LM missions"
+  - 
+    date: 1967-08-08
+    serial: 67-FM-T-55
+    sources: 
+      - 3
+    subject: "Deep serious trouble"
+  - 
+    date: 1967-08-03
+    serial: 67-FM-T-56
+    sources: 
+      - 3
+    subject: "Inflight loading of the spacecraft computer erasable memory"
+  - 
+    date: 1967-08-08
+    serial: 67-FM-T-57
+    sources: 
+      - 3
+    subject: "Do y'all need the MIT hybrid facilities for crew training?"
+  - 
+    date: 1967-08-08
+    serial: 67-FM-T-58
+    sources: 
+      - 3
+    subject: "VHF ranging by CSM for ascent monitoring"
+  - 
+    date: 1967-08-08
+    serial: 67-FM-T-59
+    sources: 
+      - 3
+    subject: "MPAD contractual effort provided FSD for software verification"
+  - 
+    date: 1967-08-14
+    serial: 67-FM-T-60
+    sources: 
+      - 2
+      - 3
+    subject: "Crew monitoring of the LOI maneuver"
+  - 
+    date: 1967-08-14
+    serial: 67-FM-T-61
+    sources: 
+      - 3
+    subject: "New/old platform for AS-501"
+  - 
+    date: 1967-08-18
+    serial: 67-FM-T-62
+    sources: 
+      - 3
+    subject: "A new rope module for LM-1 computer"
+  - 
+    date: 1967-08-24
+    serial: 67-FM-T-63
+    sources: 
+      - 3
+    subject: "Use of DPS for lunar mission aborts"
+  - 
+    date: 1967-08-25
+    serial: 67-FM-T-64
+    sources: 
+      - 3
+    subject: "Reentry guidance is perfect for S/C 101 regardless of L/D"
+  - 
+    date: 1967-08-28
+    serial: 67-FM-T-65
+    sources: 
+      - 3
+    subject: "Delete DOI thrust program, P-61"
+  - 
+    date: 1967-08-28
+    serial: 67-FM-T-66
+    sources: 
+      - 3
+    subject: "Prelaunch DAP initialization"
+  - 
+    date: 1967-08-28
+    serial: 67-FM-T-67
+    sources: 
+      - 3
+    subject: "Is display of max g in P-61 any good?"
+  - 
+    date: 1967-08-28
+    serial: 67-FM-T-68
+    sources: 
+      - 3
+    subject: "Goodies affecting the RTCC gleaned from the 504 GSOP meeting"
+  - 
+    date: 1967-08-23
+    serial: 67-FM-T-69
+    sources: 
+      - 3
+    subject: "Head up and locked DAP-wise"
+  - 
+    date: 1967-08-28
+    serial: 67-FM-T-70
+    sources: 
+      - 3
+    subject: "Does the landing radar mess us up?"
+  - 
+    date: 1967-08-28
+    serial: 67-FM-T-71
+    sources: 
+      - 3
+    subject: "Analysis of LM rendezvous navigation is needed"
+  - 
+    date: 1967-08-29
+    serial: 67-FM-T-72
+    sources: 
+      - 3
+    subject: "Inflight loading of the spacecraft computer erasable memory"
+  - 
+    date: 1967-08-29
+    serial: 67-FM-T-73
+    sources: 
+      - 3
+    subject: "Apparently S/C 103 may fly one month after S/C 101"
+  - 
+    date: 1967-08-29
+    serial: 67-FM-T-74
+    sources: 
+      - 3
+    subject: "Maneuver sensitivity coefficients"
+  - 
+    date: 1967-09-06
+    serial: 67-FM-T-75
+    sources: 
+      - 3
+    subject: "LM spacecraft assignments"
+  - 
+    date: 1967-09-07
+    serial: 67-PA-T-76A
+    sources: 
+      - 3
+    subject: "Another meeting about trajectory control on the first manned Apollo mission (S/C 101)"
+  - 
+    date: 1967-09-07
+    serial: 67-FM-T-77
+    sources: 
+      - 3
+    subject: "How do we get and use LM rendezvous radar observations?"
+  - 
+    date: 1967-09-11
+    serial: 67-FM-T-78
+    sources: 
+      - 3
+    subject: "Mission Rule for TPI - ground or onboard"
+  - 
+    date: 1967-09-11
+    serial: 67-PA-T-79A
+    sources: 
+      - 3
+    subject: "Data Priority Coordination - a plea for help"
+  - 
+    date: 1967-10-11
+    serial: 67-FM-T-80
+    sources: 
+      - 3
+      - 7
+    subject: "It's SUNDISK for Spacecraft 103"
+  - 
+    date: 1967-10-11
+    serial: 67-FM1-81
+    sources: 
+      - 7
+    subject: "About frequency of LM radar observations"
+    uncertain: date
+  - 
+    date: 1967-10-11
+    serial: 67-FM1-82
+    sources: 
+      - 3
+    subject: (unreadable)
+    uncertain: "date, subject"
+  - 
+    date: 1967-10-17
+    serial: 67-FM-T-83
+    sources: 
+      - 3
+      - 7
+    subject: "Spacecraft computer program status"
+  - 
+    date: 1967-10-18
+    serial: 67-FM-T-84
+    sources: 
+      - 3
+    subject: "There will be no manual input of range ?? capability in spacecraft rendezvous ??"
+  - 
+    date: 1967-10-18
+    serial: 67-FM-T-85
+    sources: 
+      - 1
+      - 3
+      - 7
+    subject: "Spacecraft computer program development improvements to be utilized by MIT"
+  - 
+    date: 1967-10-18
+    serial: 67-FM-T-86
+    sources: 
+      - 3
+    subject: "Some things about the Descent Propulsion System as controlled by the LOC"
+  - 
+    date: 1967-10-19
+    serial: 67-PA-T-87A
+    sources: 
+      - 3
+    subject: "First meeting of the Descent Phase Mission Techniques Working Group"
+  - 
+    date: 1967-10-19
+    serial: 67-PA-T-88A
+    sources: 
+      - 3
+    subject: "First meeting of the Descent Phase Mission Techniques Working Group"
+  - 
+    date: 1967-10-19
+    serial: 67-FM-T-89
+    sources: 
+      - 3
+    subject: "K-chart tape briefing"
+  - 
+    date: 1967-10-19
+    serial: 67-PA-T-90A
+    sources: 
+      - 3
+    subject: "Descent phase to be added to your Apollo Mission Techniques Document"
+  - 
+    date: 1967-10-19
+    serial: 67-PA-T-92A
+    sources: 
+      - 3
+    subject: "Descent phase to be added to your Apollo Mission Techniques Document"
+  - 
+    date: 1967-10-19
+    serial: 67-PA-T-93A
+    sources: 
+      - 3
+    subject: "Descent phase to be added to your Apollo Mission Techniques Document"
+  - 
+    date: 1967-10-19
+    serial: 67-PA-T-94A
+    sources: 
+      - 3
+    subject: "Descent phase to be added to your Apollo Mission Techniques Document"
+  - 
+    date: 1967-10-20
+    serial: 67-FM-T-95
+    sources: 
+      - 3
+    subject: "More about LM radar rendezvous data processing"
+  - 
+    date: 1967-10-24
+    serial: 67-FM-T-96
+    sources: 
+      - 3
+    subject: "Immediate rstart of the SPS engine under PGNCS control"
+  - 
+    date: 1967-10-26
+    serial: 67-FM-T-97
+    sources: 
+      - 3
+    subject: "Core rope simulator certification"
+  - 
+    date: 1967-10-27
+    serial: 67-FM-T-98
+    sources: 
+      - 3
+    subject: "Let's find out if current MCFM performance is really not good enough for lunar operations"
+  - 
+    date: 1967-10-30
+    serial: 67-PA-T-99A
+    sources: 
+      - 3
+    subject: "Current status on the LM DPS engine gimbal caution light problem"
+  - 
+    date: 1967-10-30
+    serial: 67-FM-T-100
+    sources: 
+      - 3
+    subject: "Final word on the targeting of the externally targeted prethrust spacecraft computer programs"
+  - 
+    date: 1967-11-08
+    serial: 67-FM-T-101
+    sources: 
+      - 3
+    subject: "What is the effect of uncertainty in the lunar potential on spacecraft computer program performance?"
+  - 
+    date: 1967-11-08
+    serial: 67-FM-T-102
+    sources: 
+      - 3
+    subject: "Spacecraft computer program F05---on the way out"
+  - 
+    date: 1967-11-09
+    serial: 67-FM-T-103
+    sources: 
+      - 3
+    subject: "MIT/MSC review of LUMINARY Descent Programs"
+  - 
+    date: 1967-11-14
+    serial: 67-FM-T-104
+    sources: 
+      - 3
+    subject: "Spacecraft computer program design to process VMP ranging for rendezvous navigation"
+  - 
+    date: 1967-11-14
+    serial: 67-FM-T-105
+    sources: 
+      - 3
+    subject: "Inflight alignment of the COAS"
+  - 
+    date: 1967-11-14
+    serial: 67-FM-T-106
+    sources: 
+      - 3
+    subject: "EMS software verification doesn't exist"
+  - 
+    date: 1967-11-27
+    serial: 67-PA-T-107A
+    sources: 
+      - 3
+    subject: "Some Assumptions about Spacecraft 101 retrofire and reentry procedures"
+  - 
+    date: 1967-11-16
+    serial: 67-FM-T-108
+    sources: 
+      - 3
+    subject: "501/502 state vector update requirement"
+  - 
+    date: 1967-11-17
+    serial: 67-FM-T-109
+    sources: 
+      - 2
+      - 3
+    subject: "Spacecraft computer program orbital integration"
+  - 
+    date: 1967-12-04
+    serial: 67-PA-T-110A
+    sources: 
+      - 3
+    subject: "Third Trajectory Control Data Priority Meeting for Spacecraft 101"
+  - 
+    date: 1967-12-07
+    serial: 67-FM-T-111
+    sources: 
+      - 3
+    subject: "Light weight attitude control is too sporty"
+  - 
+    date: 1967-12-15
+    serial: 67-PA-T-115A
+    sources: 
+      - 3
+    subject: "Urgent recommendation that CMC steering of the S-IVB be deleted"
+  - 
+    date: 1967-12-11
+    serial: 67-PA-T-116A
+    sources: 
+      - 3
+    subject: "Establishment of the Midcourse Phase Mission Techniques Working GRoup"
+  - 
+    date: 1967-12-11
+    serial: 67-PA-T-117A
+    sources: 
+      - 3
+    subject: "Apollo 205/101 reentry procedures"
+  - 
+    date: 1967-12-18
+    serial: 67-PM-T-118A
+    sources: 
+      - 3
+    subject: "No need to perform lunar landmark orbit determination"
+  - 
+    date: 1967-12-14
+    serial: 67-FM-T-119
+    sources: 
+      - 3
+    subject: "Extra cost of boresight TFI"
+  - 
+    date: 1967-12-14
+    serial: 67-PM-T-120A
+    sources: 
+      - 3
+    subject: "Mission C DAP initialization procedures"
+  - 
+    date: 1967-12-15
+    serial: 67-PM-T-121A
+    sources: 
+      - 3
+    subject: "It is proposed that we plan a two step LOI maneuver"
+  - 
+    date: 1967-12-15
+    serial: 67-FM-T-122
+    sources: 
+      - 3
+    subject: "Some lunar landmark tracking questions"
+  - 
+    date: 1967-12-15
+    serial: 67-FM-T-123
+    sources: 
+      - 3
+    subject: "Can MSFN figure out where the LM is on the moon's surface?"
+  - 
+    date: 1967-12-18
+    serial: 67-FM-T-124
+    sources: 
+      - 3
+    subject: "Spacecraft computer program newsletter"
+  - 
+    date: 1967-12-18
+    serial: 67-FM-T-125
+    sources: 
+      - 3
+    subject: "Do you want a program to calibrate the COAS?"
+  - 
+    date: 1967-12-18
+    serial: 67-PA-T-126A
+    sources: 
+      - 3
+    subject: "Third Trajectory Control Data Priority Meeting for Spacecraft 101"
+  - 
+    date: 1967-12-26
+    serial: 67-PA-T-128A
+    sources: 
+      - 3
+    subject: "Lunar lift off shall be planned at discrete times only"
+  - 
+    date: 1967-12-26
+    serial: 67-PA-T-129A
+    sources: 
+      - 3
+    subject: "Rendezvous meeting reminder"
+  - 
+    date: 1967-12-27
+    serial: 67-PA-T-127A
+    sources: 
+      - 3
+    subject: "LM rendezvous radar during Ascent is about to go over the brink"
+  - 
+    date: 1968-01-09
+    serial: 68-PA-T-1
+    sources: 
+      - 4
+    subject: "Lunar landing lighting constraint change"
+  - 
+    date: 1968-01-11
+    serial: 68-PA-T-2A
+    sources: 
+      - 2
+      - 4
+    subject: "First 2 hours on the moon is a countdown to launch - simulated or real thing"
+  - 
+    date: 1968-01-11
+    serial: 68-PA-T-3
+    sources: 
+      - 4
+    subject: "Odds and ends about lunar landmark tracking"
+  - 
+    date: 1968-01-11
+    serial: 68-PA-T-5
+    sources: 
+      - 4
+    subject: "AGS/PNGCS incompatibility review - Chapter One"
+  - 
+    date: 1968-01-15
+    serial: 68-PA-T-6A
+    sources: 
+      - 4
+    subject: "Some thoughts about Lunar Ascent procedures"
+  - 
+    date: 1968-01-16
+    serial: 68-PA-T-7
+    sources: 
+      - 4
+    subject: "Crew familiarization and training for TLI"
+  - 
+    date: 1968-01-16
+    serial: 68-PA-T-8
+    sources: 
+      - 2
+      - 4
+    subject: "AGS accelerometers may not work"
+  - 
+    date: 1968-01-16
+    serial: 68-PA-T-9A
+    sources: 
+      - 4
+    subject: "Latest on TLI"
+  - 
+    date: 1968-01-16
+    serial: 68-PA-T-10A
+    sources: 
+      - 4
+    subject: "LTA-8 lunar countdown tests not needed soon"
+  - 
+    date: 1968-01-16
+    serial: 68-PA-T-11A
+    sources: 
+      - 4
+    subject: "External Delta V for LOI"
+  - 
+    date: 1968-01-16
+    serial: 68-PM-T-12
+    sources: 
+      - 4
+    subject: (unreadable)
+  - 
+    date: 1968-01-17
+    serial: 68-PA-T-13A
+    sources: 
+      - 4
+    subject: "No change needed in the landing site determination programs - CMC or RTCC"
+  - 
+    date: 1968-01-17
+    serial: 68-PA-T-14A
+    sources: 
+      - 4
+    subject: "Reentry from lunar missions"
+  - 
+    date: 1968-01-22
+    serial: 68-PA-T-15A
+    sources: 
+      - 4
+    subject: "\\\"Final\\\" review of Spacecraft 101 (Mission \\\"C\\\") Retrofire and Reentry Mission Techniques"
+  - 
+    date: 1968-01-24
+    serial: 68-PA-T-16A
+    sources: 
+      - 4
+    subject: "Second Mission \"C\" Rendezvous Mission Techniques meeting"
+  - 
+    date: 1968-01-24
+    serial: 68-PA-T-17A
+    sources: 
+      - 4
+    subject: "Mission \"D\" Rendezvous Mission Techniques meeting"
+    uncertain: date
+  - 
+    date: 1968-01-29
+    serial: 68-FM-T-18
+    sources: 
+      - 4
+    subject: "LM-2 not expected to fly"
+  - 
+    date: 1968-02-05
+    serial: 68-FM-T-19
+    sources: 
+      - 4
+    subject: "Sundisk W-matrix is a little weird"
+  - 
+    date: 1968-02-05
+    serial: 68-FM-T-20
+    sources: 
+      - 4
+    subject: "Invitation to DPS throttling for DOI meeting"
+  - 
+    date: 1968-02-05
+    serial: 68-FM-T-21
+    sources: 
+      - 4
+    subject: "Average g"
+  - 
+    date: 1968-02-05
+    serial: 68-PA-T-22A
+    sources: 
+      - 4
+    subject: "Can we plan nominally to burn APS to fuel depletion?"
+  - 
+    date: 1968-02-07
+    serial: 68-FM-T-23
+    sources: 
+      - 4
+    subject: "Terminal phase transfer angle may be changed to 130°"
+  - 
+    date: 1968-02-05
+    serial: 68-FM-T-24
+    sources: 
+      - 4
+    subject: "Landmarks must be referenced to Irene's earth"
+    uncertain: date
+  - 
+    date: 1968-02-05
+    serial: 68-FM-T-25
+    sources: 
+      - 4
+    subject: "Sundisk range rate computation is not real accurate"
+  - 
+    date: 1968-02-06
+    serial: 68-PA-T-26A
+    sources: 
+      - 2
+      - 4
+    subject: "Lunar Reentry Mission Techniques meeting"
+  - 
+    date: 1968-02-08
+    serial: 68-FM-T-27
+    sources: 
+      - 4
+    subject: "Some Sundisk idiosyncracies"
+  - 
+    date: 1968-02-05
+    serial: 68-PA-T-28A
+    sources: 
+      - 4
+    subject: "Rendezvous radar will be available during critical mission phases"
+  - 
+    date: 1968-02-07
+    serial: 68-PA-T-29A
+    sources: 
+      - 4
+    subject: "Third Mission \"C\" Rendezvous Mission Techniques meeting"
+  - 
+    date: 1968-02-08
+    serial: 68-PA-T-30A
+    sources: 
+      - 4
+    subject: "Third \"D\" Mission Rendezvous Mission Techniques meeting"
+  - 
+    date: 1968-02-07
+    serial: 68-FM-T-31
+    sources: 
+      - 4
+    subject: "Problem of S-band during lunar landmark tracking"
+  - 
+    date: 1968-02-16
+    serial: 68-PA-T-32A
+    sources: 
+      - 4
+    subject: "Deletion of TLI steering by the spacecraft"
+  - 
+    date: 1968-02-18
+    serial: 68-PA-T-33A
+    sources: 
+      - 4
+    subject: "Fourth Mission \"D\" Rendezvous Mission Techniques meeting"
+  - 
+    date: 1968-02-21
+    serial: 68-PA-T-34A
+    sources: 
+      - 4
+    subject: "Landmarks for lunar tracking"
+  - 
+    date: 1968-02-20
+    serial: 68-FM-T-35
+    sources: 
+      - 4
+    subject: "Landing radar reasonableness"
+  - 
+    date: 1968-02-20
+    serial: 68-PA-T-36A
+    sources: 
+      - 4
+    subject: "Spacecraft computer programs controlling DPS throttling need some changes"
+  - 
+    date: 1968-02-21
+    serial: 68-PA-T-37A
+    sources: 
+      - 2
+      - 4
+    subject: "TLI platform alignment"
+  - 
+    date: 1968-02-23
+    serial: 68-PA-T-40A
+    sources: 
+      - 4
+    subject: "Lunar Mission Reentry Mission Techniques meeting"
+  - 
+    date: 1968-02-21
+    serial: 68-PA-T-41A
+    sources: 
+      - 4
+    subject: "Fourth \"C\" Mission Rendezvous Mission Techniques meeting"
+  - 
+    date: 1968-03-01
+    serial: 68-PA-T-42A
+    sources: 
+      - 4
+    subject: "Some things about the LM computer (??) program and how it should be changed"
+  - 
+    date: 1968-02-28
+    serial: 68-PA-T-43A
+    sources: 
+      - 4
+    subject: "We will start Data Prioroty Mission Techniques meetings on the Mission \"E\" Rendezvous"
+  - 
+    date: 1968-02-29
+    serial: 68-PA-T-45A
+    sources: 
+      - 4
+    subject: "Lunar Orbit Navigation and Targeting Mission Techniques meeting"
+  - 
+    date: 1968-03-01
+    serial: 68-PA-T-46A
+    sources: 
+      - 4
+    subject: "Fifth \"C\" Mission Rendezvous Mission Techniques meeting"
+  - 
+    date: 1968-03-04
+    serial: 68-PA-T-48A
+    sources: 
+      - 1
+      - 2
+      - 4
+    subject: "Ascent Phase Mission Techniques meeting - February 27 - 1968"
+  - 
+    date: 1968-03-01
+    serial: 68-PA-T-49A
+    sources: 
+      - 1
+      - 4
+    subject: "Fifth \"D\" Mission Rendezvous Mission Techniques meeting---don't miss Paragraph 5: It's great"
+  - 
+    date: 1968-03-03
+    serial: 68-PA-T-51A
+    sources: 
+      - 4
+    subject: "Lunar Rendezvous Abort Mission Techniques meeting"
+  - 
+    date: 1968-03-07
+    serial: 68-FM-T-53
+    sources: 
+      - 4
+    subject: "Apollo Spacecraft Software Configuration Control Board notes for March 4 meeting"
+  - 
+    date: 1968-03-07
+    serial: 68-PA-T-54A
+    sources: 
+      - 1
+      - 4
+    subject: "Sixth \"C\" Mission Rendezvous Mission Techniques meeting"
+  - 
+    date: 1968-03-07
+    serial: 68-PA-T-55A
+    sources: 
+      - 1
+      - 4
+    subject: "First \"E\" Mission Rendezvous Mission Techniques meeting - March 4"
+  - 
+    date: 1968-03-07
+    serial: 68-PA-T-56A
+    sources: 
+      - 1
+      - 4
+    subject: "Guidance system oriented ground rules for TLI Go/No Go"
+  - 
+    date: 1968-03-12
+    serial: 68-PA-T-57A
+    sources: 
+      - 4
+    subject: "Sixth Midcourse Phase Mission Techniques meeting"
+  - 
+    date: 1968-03-13
+    serial: 68-PA-T-59A
+    sources: 
+      - 1
+      - 4
+    subject: "Seventh \"C\" Mission Rendezvous Mission Techniques meeting"
+  - 
+    date: 1968-03-13
+    serial: 68-PA-T-60A
+    sources: 
+      - 1
+      - 4
+    subject: "Lunar Reentry Mission Techniques meeting - March 7"
+  - 
+    date: 1968-03-13
+    serial: 68-PA-T-??
+    sources: 
+      - 4
+    subject: "TRW performance evaluation for Task A-46"
+  - 
+    date: 1968-03-13
+    serial: 68-PA-T-61A
+    sources: 
+      - 1
+      - 4
+    subject: "Seventh \"D\" Mission Rendezvous Mission Techniques meeting"
+  - 
+    date: 1968-03-18
+    serial: 68-PA-T-63A
+    sources: 
+      - 1
+      - 4
+    subject: "Lunar rendezvous abort summary"
+  - 
+    date: 1968-04-01
+    serial: 68-FM-T-6?
+    sources: 
+      - 4
+    subject: "Apollo Spacecraft Software Configuration Control Board notes for the March 19 meeting"
+  - 
+    date: 1968-04-02
+    serial: 68-PA-T-67A
+    sources: 
+      - 4
+    subject: "Seventh \"D\" Mission Rendezvous Mission Techniques meeting"
+  - 
+    date: 1968-03-27
+    serial: 68-PA-T-69A
+    sources: 
+      - 4
+    subject: "Eight and Ninth \"C\" Mission Rendezvous Mission Techniques meetings"
+  - 
+    date: 1968-04-01
+    serial: 68-PA-T-70A
+    sources: 
+      - 4
+    subject: "Lunar Reentry Mission Techniques meeting - March 21"
+  - 
+    date: 1968-04-05
+    serial: 68-PA-T-71A
+    sources: 
+      - 4
+    subject: "Mission \"E\" Rendezvous Data Priority meetings"
+  - 
+    date: 1968-04-04
+    serial: 68-PA-T-71A
+    sources: 
+      - 4
+    subject: "Mission techniques for the LM lunar stay go/no go"
+  - 
+    date: 1968-04-08
+    serial: 68-PA-T-72A
+    sources: 
+      - 4
+    subject: "Sextant Rendezvous Navigation Review"
+  - 
+    date: 1968-04-08
+    serial: 68-PA-T-73A
+    sources: 
+      - 2
+      - 4
+    subject: "Some lunar mission earth orbit phase ground rules"
+  - 
+    date: 1968-04-08
+    serial: 68-FM-T-74
+    sources: 
+      - 2
+      - 4
+    subject: "Flyby solutions in the RTCC Midcourse program will not be absolutely optimum"
+  - 
+    date: 1968-04-10
+    serial: 68-PA-T-75A
+    sources: 
+      - 4
+    subject: "\"Any time\" LM lift off is an unnecessary constraint"
+  - 
+    date: 1968-04-16
+    serial: 68-PA-T-77A
+    sources: 
+      - 4
+    subject: "List of \"D/E\" Rendezvous open items"
+  - 
+    date: 1968-04-17
+    serial: 68-PA-T-78A
+    sources: 
+      - 4
+    subject: "April 9 Lunar Reentry Mission Techniques meeting"
+  - 
+    date: 1968-04-23
+    serial: 68-PA-T-79A
+    sources: 
+      - 2
+      - 4
+    subject: "Rendezvous maneuver targeting for guidance system backup"
+  - 
+    date: 1968-04-16
+    serial: 68-FM-T-80
+    sources: 
+      - 4
+    subject: "Results of the Apollo Spacecraft Software Configuration Control Board meeting of April 9"
+    uncertain: date
+  - 
+    date: 1968-04-16
+    serial: 68-PA-T-81A
+    sources: 
+      - 4
+    subject: "\"C\" Rendezvous Mission Techniques Review"
+  - 
+    date: 1968-04-17
+    serial: 68-PA-T-82A
+    sources: 
+      - 4
+    subject: "Status evaluation meeting - \"C\" Mission Rendezvous"
+  - 
+    date: 1968-04-23
+    serial: 68-PA-T-84A
+    sources: 
+      - 4
+    subject: "Descent Orbit Insertion (DOI) monitoring and short procedures are proposed"
+  - 
+    date: 1968-04-26
+    serial: 68-FM-T-87
+    sources: 
+      - 4
+    subject: "Results of the Apollo Spacecraft Software Coniguration Control board meeting of April 13"
+  - 
+    date: 1968-04-26
+    serial: 68-PA-T-88A
+    sources: 
+      - 2
+      - 4
+    subject: "Results of \"C\" Mission Rendezvous Review meeting - April 22, 1968"
+  - 
+    date: 1968-04-30
+    serial: 68-PA-T-89
+    sources: 
+      - 2
+      - 4
+    subject: "CSM should have good rendezvous navigation in the lunar mission"
+  - 
+    date: 1968-04-30
+    serial: 68-PA-T-91A
+    sources: 
+      - 4
+    subject: "PGNCS/AGS clock synchronization"
+  - 
+    date: 1968-05-06
+    serial: 68-PA-T-95A
+    sources: 
+      - 2
+    subject: "PIPA Surprise"
+  - 
+    date: 1968-05-06
+    serial: 68-PA-T-97A
+    sources: 
+      - 4
+    subject: "LM3 AGS will use Kearfott accelerometers"
+  - 
+    date: 1968-05-10
+    serial: 68-PA-T-99A
+    sources: 
+      - 1
+      - 4
+    subject: "\"C\" rendezvous open item clean up"
+  - 
+    date: 1968-05-10
+    serial: 68-PA-T-100A
+    sources: 
+      - 1
+      - 4
+    subject: "No special visual reference will be provided for the final transearth midcourse correction maneuver"
+  - 
+    date: 1968-05-14
+    serial: 68-PA-T-101A
+    sources: 
+      - 1
+      - 2
+    subject: "Aborts from powered descent on the Lunar landing mission"
+  - 
+    date: 1968-05-24
+    serial: 68-PA-T-106A
+    sources: 
+      - 1
+      - 2
+      - 4
+    subject: "Spacecraft computer program newsletter"
+  - 
+    date: 1968-05-29
+    serial: 68-PA-T-108A
+    sources: 
+      - 1
+      - 4
+    subject: "Spacecraft computer program - things dealing with lunar descent and aborts from it"
+  - 
+    date: 1968-05-29
+    serial: 68-PA-T-110A
+    sources: 
+      - 4
+    subject: "Progress Report on Mission Techniques"
+  - 
+    date: 1968-06-03
+    serial: 68-PA-T-111A
+    sources: 
+      - 1
+    subject: "Transearth midcourse correction philosophy - a major operational break through!"
+  - 
+    date: 1968-06-03
+    serial: 68-PA-T-112A
+    sources: 
+      - 4
+    subject: "VHF range shouldn't be limited by software"
+  - 
+    date: 1968-06-03
+    serial: 68-PA-T-114A
+    sources: 
+      - 1
+      - 4
+    subject: "Lunar Rendezvous Mission Techniques"
+  - 
+    date: 1968-06-06
+    serial: 68-PA-T-116A
+    sources: 
+      - 4
+    subject: "DPS Modeling"
+  - 
+    date: 1968-06-07
+    serial: 68-PA-T-119A
+    sources: 
+      - 1
+      - 4
+    subject: "Some alternate ways of figuring out where the LM is on the moon will be available"
+  - 
+    date: 1968-06-12
+    serial: 68-FM-T-123
+    sources: 
+      - 4
+    subject: "Results of the June 11 Apollo Software Configuration Control Board (ASCCB) meeting"
+  - 
+    date: 1968-06-12
+    serial: 68-PA-T-124A
+    sources: 
+      - 4
+    subject: "\"D\" mission launch window is nice"
+  - 
+    date: 1968-06-14
+    serial: 68-PA-T-125A
+    sources: 
+      - 4
+    subject: "Apollo Crew Safety Review - Action Item No. 12"
+  - 
+    date: 1968-06-18
+    serial: 68-PA-T-126A
+    sources: 
+      - 1
+    subject: "Transearth midcourse maneuvers are getting easier and cheaper all the time"
+  - 
+    date: 1968-06-18
+    serial: 68-FM-T-129
+    sources: 
+      - 4
+    subject: "EMS will always be used on \"C\" if G&amp;N fails"
+  - 
+    date: 1968-06-18
+    serial: 68-PA-T-130A
+    sources: 
+      - 4
+    subject: "Can some pre-DOI activity be moved to pre-LOI?"
+  - 
+    date: 1968-06-21
+    serial: 68-PA-T-131A
+    sources: 
+      - 1
+      - 4
+    subject: "Let's add a plane change into the lunar rendezvous timeline"
+  - 
+    date: 1968-06-20
+    serial: 68-PA-T-133A
+    sources: 
+      - 4
+    subject: "\"D\" Rendezvous Mission Techniques Task Assignments for MPAD"
+  - 
+    date: 1968-06-21
+    serial: 68-PA-T-134A
+    sources: 
+      - 4
+    subject: "Request to check some IMU alignement equations"
+  - 
+    date: 1968-06-28
+    serial: 68-PA-T-136A
+    sources: 
+      - 2
+      - 4
+    subject: "\"D\" Rendezvous Mission Techniques"
+  - 
+    date: 1968-06-25
+    serial: 68-PA-T-137A
+    sources: 
+      - 1
+      - 2
+      - 4
+    subject: "\"D\" Rendezvous Mission Techniques Ground Rules, Working Agreements, and other things"
+  - 
+    date: 1968-06-25
+    serial: 68-PA-T-138A
+    sources: 
+      - 1
+      - 4
+    subject: "\"C\" Rendezvous W-matrix"
+  - 
+    date: 1968-06-25
+    serial: 68-PA-T-140A
+    sources: 
+      - 4
+    subject: "DAP mass properties initialization and update requirements"
+    uncertain: date
+  - 
+    date: 1968-06-28
+    serial: 68-PA-T-142A
+    sources: 
+      - 4
+    subject: "Need to know some transearth midcourse correction (MCC) Δv costs"
+  - 
+    date: 1968-06-28
+    serial: 68-PA-T-143A
+    sources: 
+      - 4
+    subject: "Relative orientation of the LM and CSM navigation bases"
+  - 
+    date: 1968-07-01
+    serial: 68-PA-T-145A
+    sources: 
+      - 4
+    subject: "Checkout of CSM optics in earth orbit prior to TLI"
+  - 
+    date: 1968-07-02
+    serial: 68-PA-T-147A
+    sources: 
+      - 1
+    subject: "Lunar rendezvous shaping up"
+  - 
+    date: 1968-07-02
+    serial: 68-PA-T-148A
+    sources: 
+      - 1
+      - 4
+    subject: "Throttle up time is fixed during the powered descent maneuver"
+  - 
+    date: 1968-07-16
+    serial: 68-PA-T-151A
+    sources: 
+      - 1
+      - 2
+    subject: "Lunar Ascent preparation"
+  - 
+    date: 1968-07-09
+    serial: 68-PA-T-153A
+    sources: 
+      - 1
+      - 4
+    subject: "Good news on \"C\" mission SPS burns"
+  - 
+    date: 1968-07-10
+    serial: 68-PA-T-154A
+    sources: 
+      - 2
+      - 4
+    subject: "\"C\" Mission Clean Up"
+  - 
+    date: 1968-07-16
+    serial: 68-PA-T-155A
+    sources: 
+      - 1
+      - 2
+    subject: "LM Descent abortability computation is proposed"
+  - 
+    date: 1968-07-17
+    serial: 68-PA-T-156A
+    sources: 
+      - 1
+      - 2
+    subject: "Powered descent throttle logic correction"
+  - 
+    date: 1968-07-17
+    serial: 68-FM-T-157
+    sources: 
+      - 4
+    subject: "Results of the July 9 Apollo Spacecraft Configuration Control Board (ASCCB) meeting"
+  - 
+    date: 1968-07-18
+    serial: 68-PA-T-159A
+    sources: 
+      - 1
+      - 2
+      - 4
+    subject: "No 15 minute constraint for Lunar Ascent Guidance"
+  - 
+    date: 1968-07-18
+    serial: 68-PA-T-160A
+    sources: 
+      - 1
+      - 2
+    subject: "The LM can handle big Descent plane changes but requires protection against APS abort fuel depletion"
+  - 
+    date: 1968-07-18
+    serial: 68-PA-T-161A
+    sources: 
+      - 1
+      - 2
+      - 4
+    subject: "LM Ascent lift-off time can be determined by the crew"
+  - 
+    date: 1968-07-23
+    serial: 68-PA-T-162A
+    sources: 
+      - 1
+      - 4
+    subject: "\"C\" Mission Retrofire and Reentry Mission Techniques meeting"
+  - 
+    date: 1968-07-23
+    serial: 68-PA-T-163A
+    sources: 
+      - 4
+    subject: "Guidance and control action limits"
+  - 
+    date: 1968-07-24
+    serial: 68-PA-T-167A
+    sources: 
+      - 1
+      - 4
+    subject: "July 19 \"C\" Rendezvous Mission Techniques meeting"
+  - 
+    date: 1968-07-25
+    serial: 68-PA-T-168A
+    sources: 
+      - 1
+      - 4
+    subject: "\"D\" Rendezvous"
+  - 
+    date: 1968-07-26
+    serial: 68-PA-T-169A
+    sources: 
+      - 1
+      - 2
+      - 4
+    subject: "July 9 and July 24 \"G\" Rendezvous Mission Techniques meetings"
+  - 
+    date: 1968-07-26
+    serial: 68-FM-T-170
+    sources: 
+      - 4
+    subject: "AGS program changes"
+  - 
+    date: 1968-07-26
+    serial: 68-PA-T-171A
+    sources: 
+      - 4
+    subject: "Mission Techniques Documentation Schedule"
+  - 
+    date: 1968-07-26
+    serial: 68-PA-T-172A
+    sources: 
+      - 1
+    subject: "\"D\" Rendezvous Mission Techniques meeting od July 22"
+  - 
+    date: 1968-07-30
+    serial: 68-PA-T-173A
+    sources: 
+      - 1
+      - 2
+    subject: "Pulse Torquing to Achieve IMU Realignments"
+  - 
+    date: 1968-08-01
+    serial: 68-PA-T-175A
+    sources: 
+      - 4
+    subject: "LM propulsion of the LM/CSM configuration as an SPS backup technique"
+  - 
+    date: 1968-08-01
+    serial: 68-PA-T-182A
+    sources: 
+      - 4
+    subject: "North-American Rockwell (NR) participation in Mission Techniques Activity"
+  - 
+    date: 1968-08-01
+    serial: 68-PA-T-183A
+    sources: 
+      - 4
+    subject: "LM rendezvous radar is essential"
+  - 
+    date: 1968-08-05
+    serial: 68-PA-T-185A
+    sources: 
+      - 1
+      - 4
+    subject: "Propulsion system to be used on the \"D\" Mission Rendezvous CSI Maneuver"
+  - 
+    date: 1968-08-05
+    serial: 68-PA-T-186A
+    sources: 
+      - 1
+    subject: "Recommendation to retain the Two-Stage Lunar Orbit Insertion (LOI) Maneuver"
+  - 
+    date: 1968-08-08
+    serial: 68-PA-T-188A
+    sources: 
+      - 4
+    subject: "Correction to memorandum"
+  - 
+    date: 1968-09-04
+    serial: 68-PA-T-189A
+    sources: 
+      - 4
+    subject: "Should LM RCS jet #10 be disabled for the \"D\" mission docked DPS burn?"
+  - 
+    date: 1968-09-12
+    serial: 68-PA-T-195A
+    sources: 
+      - 1
+      - 2
+    subject: "G Rendezvous"
+  - 
+    date: 1968-09-12
+    serial: 68-PA-T-197A
+    sources: 
+      - 1
+    subject: "D Rendezvous Mission Techniques Meeting - September 9 - 1968"
+  - 
+    date: 1968-09-20
+    serial: 68-PA-T-200A
+    sources: 
+      - 4
+    subject: "C' Transearth Midcourse Correction (MCC) and Entry Mission Techniques"
+  - 
+    date: 1968-09-23
+    serial: 68-FM-T-201
+    sources: 
+      - 2
+      - 4
+    subject: "Results of September 17 Apollo Spacecraft Software Configuration Control Board (ASSCCB) meeting"
+  - 
+    date: 1968-09-23
+    serial: 68-PA-T-202A
+    sources: 
+      - 1
+      - 2
+      - 4
+    subject: "G Rendezvous Mission Techniques"
+  - 
+    date: 1968-09-23
+    serial: 68-PA-T-203A
+    sources: 
+      - 1
+      - 4
+    subject: "D Rendezvous Ground Rules and Working Agreements update"
+  - 
+    date: 1968-09-24
+    serial: 68-PA-T-205A
+    sources: 
+      - 4
+    subject: "Mission Techniques Documentation Schedule"
+  - 
+    date: 1968-09-25
+    serial: 68-PA-T-206A
+    sources: 
+      - 4
+    subject: "C' Communication Loss"
+  - 
+    date: 1968-09-25
+    serial: 68-PA-T-207A
+    sources: 
+      - 4
+    subject: "Review of the Mission Techniques for Saturn V/Apollo Launch Phase Aborts"
+  - 
+    date: 1968-09-26
+    serial: 68-PA-T-208A
+    sources: 
+      - 1
+      - 2
+      - 4
+    subject: "Unusual procedure required for LM Ascent from the moon"
+  - 
+    date: 1968-09-27
+    serial: 68-PA-T-209A
+    sources: 
+      - 4
+    subject: "Requirement for pre-PDI IMU alignment has been deleted"
+  - 
+    date: 1968-09-27
+    serial: 68-PA-T-209A
+    sources: 
+      - 4
+    subject: "C' Mission Techniques"
+  - 
+    date: 1968-10-02
+    serial: 68-PA-T-210A
+    sources: 
+      - 4
+    subject: "C Mission Techniques - are they being used?"
+  - 
+    date: 1968-10-02
+    serial: 68-PA-T-213A
+    sources: 
+      - 2
+    subject: "Lunar orbit revolution counter for C'"
+  - 
+    date: 1968-10-07
+    serial: 68-PA-T-215A
+    sources: 
+      - 2
+    subject: "Cis-lunar spacecraft navigation for C'"
+  - 
+    date: 1968-10-10
+    serial: 68-PA-T-218A
+    sources: 
+      - 1
+      - 4
+    subject: "D Rendezvous Mission Techniques"
+  - 
+    date: 1968-10-15
+    serial: 68-PA-T-219A
+    sources: 
+      - 1
+      - 2
+      - 4
+    subject: "Lunar Rendezvous Mission Techniques"
+  - 
+    date: 1968-10-17
+    serial: 68-PA-T-220A
+    sources: 
+      - 2
+      - 4
+    subject: "Transearth Spacecraft Navigation"
+  - 
+    date: 1968-10-16
+    serial: 68-PA-T-222A
+    sources: 
+      - 1
+      - 2
+      - 4
+    subject: "C' maneuvers - SPS versus RCS crossover"
+  - 
+    date: 1968-10-16
+    serial: 68-PA-T-224A
+    sources: 
+      - 2
+      - 4
+    subject: "C' Earth Orbit and TLI Mission Techniques Open Items"
+  - 
+    date: 1968-10-16
+    serial: 68-FM-T-225
+    sources: 
+      - 2
+      - 4
+    subject: "Results of the October 8 Apollo Spacecraft Software Configuration Control Board (ASSCCB) meeting"
+  - 
+    date: 1968-10-21
+    serial: 68-PA-T-226A
+    sources: 
+      - 1
+      - 2
+      - 4
+    subject: "Descent Aborts"
+  - 
+    date: 1968-10-17
+    serial: 68-PA-T-227A
+    sources: 
+      - 1
+      - 4
+    subject: "D Rendezvous Open Items, Action Items or whatever you call them"
+  - 
+    date: 1968-10-18
+    serial: 68-PA-T-228A
+    sources: 
+      - 4
+    subject: "C' Contingency Procedures - Draft Review"
+  - 
+    date: 1968-10-22
+    serial: 68-PA-T-229A
+    sources: 
+      - 4
+    subject: "C' Spacecraft Navigation Mission Techniques"
+  - 
+    date: 1968-10-25
+    serial: 68-PA-T-234A
+    sources: 
+      - 2
+      - 4
+    subject: "C' Contingency Review"
+  - 
+    date: 1968-10-25
+    serial: 68-PA-T-235A
+    sources: 
+      - 2
+      - 4
+    subject: "Some more C' Lunar Orbit Mission Techniques"
+  - 
+    date: 1968-10-25
+    serial: 68-PA-T-236A
+    sources: 
+      - 1
+      - 2
+      - 4
+    subject: "CSI and CDH back into the AGS - maybe"
+  - 
+    date: 1968-10-25
+    serial: 68-PA-T-237A
+    sources: 
+      - 1
+      - 2
+      - 4
+    subject: "X-axis or z-axis for LM TPI?"
+  - 
+    date: 1968-10-25
+    serial: 68-PA-T-238A
+    sources: 
+      - 1
+      - 2
+      - 4
+    subject: "Descent Aborts - Part II"
+  - 
+    date: 1968-11-01
+    serial: 68-FM-T-240
+    sources: 
+      - 4
+    subject: "ALEXANDER'S Rent-A-Car, Inc."
+  - 
+    date: 1968-11-04
+    serial: 68-PA-T-241A
+    sources: 
+      - 2
+      - 4
+    subject: "When is the rendezvous radar designate routine (R29) needed?"
+  - 
+    date: 1968-11-05
+    serial: 68-PA-T-242A
+    sources: 
+      - 2
+      - 4
+    subject: "C' earth parking orbit duration is a variable"
+  - 
+    date: 1968-11-07
+    serial: 68-PA-T-247A
+    sources: 
+      - 4
+    subject: "C Prime Maneuver Monitoring Mission Techniques into cement"
+  - 
+    date: 1968-11-12
+    serial: 68-PA-T-248A
+    sources: 
+      - 1
+      - 4
+    subject: "D Maneuver Monitoring Mission Techniques"
+  - 
+    date: 1968-11-14
+    serial: 68-PA-T-249A
+    sources: 
+      - 4
+    subject: "C' Mission Techniques clean up - Translunar and Transearth"
+  - 
+    date: 1968-11-15
+    serial: 68-PA-T-251A
+    sources: 
+      - 4
+    subject: "C' Lunar Orbit - Navigation adn Block Data"
+  - 
+    date: 1968-11-15
+    serial: 68-PA-T-252A
+    sources: 
+      - 1
+      - 4
+    subject: "F Rendezvous Mission Techniques"
+  - 
+    date: 1968-11-15
+    serial: 68-PA-T-253A
+    sources: 
+      - 4
+    subject: "No real time landing site data processing is planned on C Prime"
+  - 
+    date: 1968-11-20
+    serial: 68-PA-T-254A
+    sources: 
+      - 4
+    subject: "C' Mission Techniques -- mostly Entry"
+  - 
+    date: 1968-11-20
+    serial: 68-PA-T-255A
+    sources: 
+      - 4
+    subject: "Is MSFN ranging mandatory for C'?"
+  - 
+    date: 1968-11-21
+    serial: 68-PA-T-256A
+    sources: 
+      - 4
+    subject: "C' entry initialization with no communication"
+  - 
+    date: 1968-11-25
+    serial: 68-PA-T-257A
+    sources: 
+      - 1
+      - 4
+    subject: "LM DPS low level light fixing"
+  - 
+    date: 1968-11-25
+    serial: 68-PA-T-258A
+    sources: 
+      - 1
+      - 2
+      - 4
+    subject: "Descent Aborts - Part III"
+  - 
+    date: 1968-11-29
+    serial: 68-PA-T-262A
+    sources: 
+      - 1
+      - 4
+    subject: "D Rendezvous Mission Techniques"
+  - 
+    date: 1968-12-02
+    serial: 68-PA-T-263A
+    sources: 
+      - 4
+    subject: "Proposal to add something nice to the F mission"
+  - 
+    date: 1968-12-04
+    serial: 68-PA-T-264A
+    sources: 
+      - 4
+    subject: "Some Mission D contingency plans"
+  - 
+    date: 1968-12-06
+    serial: 68-PA-T-265A
+    sources: 
+      - 4
+    subject: "GDC required for TLI"
+  - 
+    date: 1968-12-06
+    serial: 68-PA-T-266A
+    sources: 
+      - 1
+      - 4
+    subject: "C' Abort Maneuver Overburn Monitoring"
+  - 
+    date: 1968-12-09
+    serial: 68-PA-T-270A
+    sources: 
+      - 1
+      - 4
+    subject: "F Mission Techniques - LM Checkout"
+  - 
+    date: 1968-12-13
+    serial: 68-PA-T-271A
+    sources: 
+      - 1
+    subject: "D Rendezvous Mission Techniques"
+  - 
+    date: 1968-12-16
+    serial: 68-PA-T-272A
+    sources: 
+      - 4
+    subject: "Revision to the C' Lunar Orbit Activation Document"
+  - 
+    date: 1968-12-13
+    serial: 68-PA-T-274A
+    sources: 
+      - 4
+    subject: "APS and DPS operationdal constraints clarification is needed"
+  - 
+    date: 1969-01-07
+    serial: 69-PA-T-1A
+    sources: 
+      - 5
+    subject: "Let's move the recovery force a little"
+  - 
+    date: 1969-01-10
+    serial: 69-PA-T-2A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "Some decisions regarding lunar landmark tracking on the F and G missions"
+  - 
+    date: 1969-01-14
+    serial: 69-PA-T-3A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "Operations required for communication loss on F and G are sure better than on C'"
+  - 
+    date: 1969-01-14
+    serial: 69-PA-T-4A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "F and G cis-lunar midcourse correction scheduling"
+  - 
+    date: 1969-01-14
+    serial: 69-PA-T-5A
+    sources: 
+      - 5
+    subject: "Procedures for LM aborts immediately after landing are terrible!"
+  - 
+    date: 1969-01-14
+    serial: 69-PA-T-6A
+    sources: 
+      - 5
+    subject: "D Rendezvous Mission Techniques"
+  - 
+    date: 1969-01-15
+    serial: 69-PA-T-8A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "F and G Lunar Orbital operations - mostly pre-DOI LM activation stuff"
+  - 
+    date: 1969-01-21
+    serial: 69-PA-T-10A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "F and G mission cis-lunar and abort plan"
+  - 
+    date: 1969-01-21
+    serial: 69-PA-T-11A
+    sources: 
+      - 5
+    subject: "D Rendezvous Mission Techniques Meeting - January 20 - 1969"
+  - 
+    date: 1969-02-05
+    serial: 69-PA-T-??
+    sources: 
+      - 5
+    subject: (unreadable)
+    uncertain: date
+  - 
+    date: 1969-02-05
+    serial: 69-PA-T-14A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "Two-stage LOI looks good after C'"
+  - 
+    date: 1969-02-05
+    serial: 69-PA-T-15A
+    sources: 
+      - 5
+    subject: (unreadable)
+    undertain: "date, subject"
+  - 
+    date: 1969-02-06
+    serial: 69-PA-T-17A
+    sources: 
+      - 5
+    subject: "MCC-H Ascent Monitoring"
+  - 
+    date: 1969-02-06
+    serial: 69-PA-T-18A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "F/G cis-lunar midcourse correction mission techniques"
+  - 
+    date: 1969-02-06
+    serial: 69-PA-T-19A
+    sources: 
+      - 5
+    subject: "Apollo Mission Techniques Documentation Schedule"
+  - 
+    date: 1969-02-11
+    serial: 69-PA-T-22A
+    sources: 
+      - 1
+      - 2
+    subject: "G Lunar Surface Phase Mission Techniques"
+  - 
+    date: 1969-02-11
+    serial: 69-PA-T-23A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "F/G Mission Techniques - except for the lunar orbit phase - are ready to eat"
+  - 
+    date: 1969-02-11
+    serial: 69-PA-T-24A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "F/G Rendezvous Mission Techniques - mostly F"
+  - 
+    date: 1969-02-19
+    serial: 69-FM-T-27
+    sources: 
+      - 5
+    subject: "Apollo spacecraft computer program newsletter"
+  - 
+    date: 1969-02-19
+    serial: 69-PA-T-27A
+    sources: 
+      - 1
+      - 5
+    subject: "All about F APS burn to depletion and landmark tracking"
+  - 
+    date: 1969-02-20
+    serial: 69-PA-T-28A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "Descent Abort Mission Techniques"
+  - 
+    date: 1969-02-25
+    serial: 69-PA-T-29A
+    sources: 
+      - 5
+    subject: "Mission D Maneuver Monitoring Document"
+  - 
+    date: 1969-02-20
+    serial: 69-FM-T-30
+    sources: 
+      - 2
+      - 5
+    subject: "Results of the February 18 Apollo Spacecraft Software Configuration Control Board (ASSCCB) meeting"
+  - 
+    date: 1969-02-24
+    serial: 69-PA-T-31A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "Let's have no unscheduled water dumps on the F mission"
+  - 
+    date: 1969-02-24
+    serial: 69-PA-T-32A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "Some things about MSFN orbit determination"
+  - 
+    date: 1969-02-25
+    serial: 69-PA-T-34A
+    sources: 
+      - 2
+    subject: "D Mission LM PGNCS IMU drift checks"
+  - 
+    date: 1969-02-26
+    serial: 69-PA-T-35A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "F/G Mirror Image Targeting shall use a three-minute delay"
+  - 
+    date: 1969-02-26
+    serial: 69-PA-T-36A
+    sources: 
+      - 2
+      - 5
+    subject: "Review of the Launch Phase Abort Mission Techniques Document for Missions F and G"
+  - 
+    date: 1969-02-27
+    serial: 69-PA-T-37A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "Some more trivia for the F mission"
+  - 
+    date: 1969-02-28
+    serial: 69-PA-T-39A
+    sources: 
+      - 2
+      - 5
+    subject: "Some MPAD work needed for the G mission"
+  - 
+    date: 1969-02-28
+    serial: 69-PA-T-40A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "There will be no VHF ranging data collected while tracking the LM on the lunar surface"
+  - 
+    date: 1969-03-07
+    serial: 69-PA-T-42A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "G Lunar Surface stuff is still incomplete"
+  - 
+    date: 1969-03-14
+    serial: 69-PA-T-44A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "Happiness is having plenty of hydrogen"
+  - 
+    date: 1969-03-12
+    serial: 69-PA-T-45A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "Simplification to the pre-PDI abort procedure"
+  - 
+    date: 1969-03-20
+    serial: 69-PA-T-47A
+    sources: 
+      - 1
+    subject: "F mission lunar orbit attitude sequence"
+  - 
+    date: 1969-04-01
+    serial: 69-PA-T-52A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "PGNCS operations while on the lunar surface"
+  - 
+    date: 1969-04-03
+    serial: 69-PA-T-53A
+    sources: 
+      - 2
+      - 5
+    subject: "Some G Mission Techniques action items"
+  - 
+    date: 1969-04-04
+    serial: 69-PA-T-54A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "RLS Determination"
+  - 
+    date: 1969-04-04
+    serial: 69-PA-T-55A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "AGS alignments in lunar orbit and operations on the lunar surface"
+  - 
+    date: 1969-04-08
+    serial: 69-PA-T-56A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "Some things about Ascent from the moon"
+  - 
+    date: 1969-04-10
+    serial: 69-PA-T-58A
+    sources: 
+      - 2
+      - 5
+    subject: "Descent monitoring at MCC"
+  - 
+    date: 1969-04-11
+    serial: 69-PA-T-59A
+    sources: 
+      - 1
+      - 5
+    subject: "F Rendezvous Mission Techniques Clean-up"
+  - 
+    date: 1969-04-15
+    serial: 69-PA-T-61A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "Let's drop one of the lunar surface RR tests"
+  - 
+    date: 1969-04-23
+    serial: 69-PA-T-62A
+    sources: 
+      - 2
+      - 5
+    subject: "F mission rule regarding DPS gimbal drive failure indication"
+  - 
+    date: 1969-04-15
+    serial: 69-PA-T-63A
+    sources: 
+      - 2
+      - 5
+    subject: "Some things about Descent"
+  - 
+    date: 1969-04-16
+    serial: 69-PA-T-64A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "How the MSFN and sextant data are used to target DOI and Descent"
+  - 
+    date: 1969-04-30
+    serial: 69-PA-T-66A
+    sources: 
+      - 5
+    subject: "What's descent al about?"
+  - 
+    date: 1969-05-01
+    serial: 69-PA-T-67A
+    sources: 
+      - 1
+      - 5
+    subject: "Descent Aborts and subsequent Rendezvous Mission Techniques"
+  - 
+    date: 1969-05-02
+    serial: 69-PA-T-69A
+    sources: 
+      - 2
+      - 5
+    subject: "CSM rendezvous navigation works fine using just VHF ranging"
+  - 
+    date: 1969-05-05
+    serial: 69-PA-T-70A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "Descent Monitoring Mission Techniques - a status report"
+  - 
+    date: 1969-05-06
+    serial: 69-PA-T-71A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "Ascent newsletter"
+  - 
+    date: 1969-05-06
+    serial: 69-PA-T-72A
+    sources: 
+      - 2
+      - 5
+    subject: "Comments on IMU compensation procedures"
+  - 
+    date: 1969-05-07
+    serial: 69-PA-T-73A
+    sources: 
+      - 5
+    subject: "Apollo Mission Techniques Documentation Schedule"
+  - 
+    date: 1969-05-08
+    serial: 69-PA-T-74A
+    sources: 
+      - 2
+      - 5
+    subject: "The LM4 RR/LGC interface may be broken, but that's okay - sorta"
+  - 
+    date: 1969-05-12
+    serial: 69-PA-T-75A
+    sources: 
+      - 2
+      - 5
+    subject: "Cis-lunar state vector updating procedure change"
+  - 
+    date: 1969-05-12
+    serial: 69-PA-T-76A
+    sources: 
+      - 1
+      - 2
+    subject: "G mission lunar descent is uphill - all the way"
+  - 
+    date: 1969-05-12
+    serial: 69-PA-T-77A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "Manual Steering for LM Ascent"
+  - 
+    date: 1969-05-15
+    serial: 69-PA-T-78A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "Some \"improvements\" in the Descent preparation procedures"
+  - 
+    date: 1969-05-26
+    serial: 69-PA-T-81A
+    sources: 
+      - 5
+    subject: "Attention worthy Descent Program Anomaly"
+  - 
+    date: 1969-05-28
+    serial: 69-PA-T-82A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "Descent, Lunar Surface, and Ascent Mission Techniques with the H crew"
+  - 
+    date: 1969-05-29
+    serial: 69-PA-T-83A
+    sources: 
+      - 2
+      - 5
+    subject: "DPS low level propellant light"
+  - 
+    date: 1969-06-04
+    serial: 69-PA-T-84A
+    sources: 
+      - 2
+      - 5
+    subject: "G Rendezvous Navigation OJT is proposed"
+  - 
+    date: 1969-06-05
+    serial: 69-PA-T-87A
+    sources: 
+      - 2
+      - 5
+    subject: "PRN ranging in lunar orbit is unnecessary"
+  - 
+    date: 1969-06-11
+    serial: 69-PA-T-92A
+    sources: 
+      - 2
+      - 5
+    subject: "CSM Rescue Mission Techniques are complete and clean"
+  - 
+    date: 1969-06-13
+    serial: 69-PA-T-93A
+    sources: 
+      - 1
+      - 2
+      - 5
+    subject: "Some significant LUMINARY program changes you should know about"
+  - 
+    date: 1969-06-19
+    serial: 69-PA-T-94A
+    sources: 
+      - 1
+      - 2
+    subject: "Ascent with busted guidance and control systems"
+  - 
+    date: 1969-06-24
+    serial: 69-PA-T-95A
+    sources: 
+      - 1
+      - 2
+    subject: "Post Insertion CSM P52 is optional"
+  - 
+    date: 1969-07-01
+    serial: 69-PA-T-101A
+    sources: 
+      - 1
+      - 2
+    subject: "Post-insertion alignment is lower priority than rendezvous navigation"
+  - 
+    date: 1969-07-01
+    serial: 69-PA-T-102A
+    sources: 
+      - 2
+    subject: "New DPS GDA Descent mission rule is imminent if not now"
+  - 
+    date: 1969-07-03
+    serial: 69-PA-T-103A
+    sources: 
+      - 1
+      - 2
+    subject: "Some new ideas on how to use the AGS during Descent"
+  - 
+    date: 1969-07-07
+    serial: 69-PA-T-104A
+    sources: 
+      - 1
+      - 2
+    subject: "Manual Ascent revisited"
+  - 
+    date: 1969-07-10
+    serial: 69-PA-T-105A
+    sources: 
+      - 1
+      - 2
+    subject: "Tweak burns"
+  - 
+    date: 1969-07-11
+    serial: 69-PA-T-106A
+    sources: 
+      - 1
+      - 2
+    subject: "Descent Data Select procedures are finalized"
+  - 
+    date: 1969-07-14
+    serial: 69-PA-T-109A
+    sources: 
+      - 1
+      - 2
+    subject: "How we will handle the effect of mascons on the LM lunar surface gravity alignments"
+  - 
+    date: 1969-07-16
+    serial: 69-PA-T-111A
+    sources: 
+      - 1
+      - 2
+    subject: "Change in delayed PDI Descent targeting procedures"
+  - 
+    date: 1969-07-17
+    serial: 69-PA-T-112A
+    sources: 
+      - 1
+      - 2
+    subject: "Gyro calibration and accelerometer bias update and redline values"
+  - 
+    date: 1969-08-01
+    serial: 69-PA-T-114A
+    sources: 
+      - 2
+    subject: "How to land next to a Surveyor - a short novel for do-it-yourselfers"
+  - 
+    date: 1969-08-29
+    serial: 69-PA-T-116A
+    sources: 
+      - 2
+    subject: "A lengthy status report on lunar point landing including some remarks about CSM DOI"
+  - 
+    date: 1969-09-01
+    serial: 69-PA-T-117A
+    sources: 
+      - 2
+    subject: "Notice of a catch-all Apollo 12 Mission Techniques meeting"
+  - 
+    date: 1969-09-12
+    serial: 69-PA-T-118A
+    sources: 
+      - 2
+    subject: "Invitation to an Apollo 13 Lunar Orbit Mission Techniques meeting"
+  - 
+    date: 1969-09-16
+    serial: 69-PA-T-119A
+    sources: 
+      - 2
+    subject: "We don't have to change LUMINARY much for point landing but there's gold in them hillsf"
+  - 
+    date: 1969-09-24
+    serial: 69-PA-T-122A
+    sources: 
+      - 2
+    subject: "Apollo 12 Mission Techniques"
+  - 
+    date: 1969-09-29
+    serial: 69-PA-T-123A
+    sources: 
+      - 2
+    subject: "Status report on Apollo 13 Mission Techniques - or \"Go for CSM DOI'"
+  - 
+    date: 1969-10-20
+    serial: 69-PA-T-129A
+    sources: 
+      - 2
+    subject: "What can be done about the AOT?"
+  - 
+    date: 1969-10-21
+    serial: 69-PA-T-130A
+    sources: 
+      - 2
+    subject: "Let's hear it for \"Delta Guidance\"!"
+  - 
+    date: 1969-10-21
+    serial: 69-FM-T-131
+    sources: 
+      - 2
+    subject: "Apollo Spacecraft Software Configuration Control Board meeting number 32"
+  - 
+    date: 1969-10-21
+    serial: 69-PA-T-132A
+    sources: 
+      - 2
+    subject: "Apollo 12 Newsletter"
+  - 
+    date: 1969-10-29
+    serial: 69-PA-T-133A
+    sources: 
+      - 2
+    subject: "Spacecraft separation procedures"
+  - 
+    date: 1969-10-29
+    serial: 69-PA-T-134A
+    sources: 
+      - 2
+    subject: "Don't turn off the landing radar"
+  - 
+    date: 1969-10-29
+    serial: 69-PA-T-138A
+    sources: 
+      - 2
+    subject: "Automatic CSM Rendezvous"
+  - 
+    date: 1969-10-29
+    serial: 69-PA-T-139A
+    sources: 
+      - 2
+    subject: "AGS licks PGNCS for RCS Insertion"
+  - 
+    date: 1969-11-04
+    serial: 69-PA-T-142A
+    sources: 
+      - 2
+    subject: "Apollo 12 Descent - Final comments"
+  - 
+    date: 1969-11-17
+    serial: 69-PA-T-145A
+    sources: 
+      - 2
+    subject: "LM high-bit rate telemetry data is not mandatory"
+  - 
+    date: 1969-11-24
+    serial: 69-PA-T-146A
+    sources: 
+      - 2
+    subject: "Apollo 13 Odds and Ends Meeting"
+  - 
+    date: 1969-11-24
+    serial: 69-PA-T-147A
+    sources: 
+      - 2
+    subject: "Rover Navigation"
+  - 
+    date: 1969-12-17
+    serial: 69-PA-T-149A
+    sources: 
+      - 2
+    subject: "Apollo 13 Mission Techniques are in good shape"
+  - 
+    date: 1969-12-18
+    serial: 69-PA-T-148A
+    sources: 
+      - 2
+    subject: "LM IMU drift checks prior to descent for Apollo 13 and up"
+  - 
+    date: 1969-12-31
+    serial: 69-PA-T-152A
+    sources: 
+      - 2
+    subject: "Can we cut 2 hours out of the Apollo rendezvous?"
+  - 
+    date: 1970-01-05
+    serial: 70-PA-T-2A
+    sources: 
+      - 2
+    subject: "A small change in CSM DOI confirmation procedures"
+  - 
+    date: 1970-01-07
+    serial: 70-PA-T-1A
+    sources: 
+      - 2
+    subject: "Important LM computer program change for Apollo 13 descent"
+  - 
+    date: 1970-01-05
+    serial: 70-PA-T-2A
+    sources: 
+      - 6
+    subject: "A small change in CSM DOI confirmation procedures"
+  - 
+    date: 1970-01-13
+    serial: 70-FM-T-4
+    sources: 
+      - 2
+    subject: "AAP Rendezvous Mission Techniques"
+  - 
+    date: 1970-01-13
+    serial: 70-FM-T-5
+    sources: 
+      - 2
+    subject: "AAP CSM Computer Program Requirements meeting"
+  - 
+    date: 1970-01-15
+    serial: 70-FM-T-6
+    sources: 
+      - 6
+    subject: "Cabbages and Kings"
+  - 
+    date: 1970-01-19
+    serial: 70-FM-T-7
+    sources: 
+      - 6
+    subject: "MSFC/MSC OWS Computer Program Meeting"
+  - 
+    date: 1970-01-20
+    serial: 70-PA-T-8A
+    sources: 
+      - 2
+      - 6
+    subject: "The Apollo rendezvous can be shortened by 2 hours"
+  - 
+    date: 1970-02-09
+    serial: 70-PA-T-11A
+    sources: 
+      - 6
+    subject: "Mission H-2 and Subsequent Lunar Orbit Coordination"
+  - 
+    date: 1970-02-10
+    serial: 70-FA-T-12
+    sources: 
+      - 6
+    subject: "Status report on teh \"P66\" fix"
+  - 
+    date: 1970-02-12
+    serial: 70-FA-T-13
+    sources: 
+      - 2
+      - 6
+    subject: "Software for the AAP CSM spacecraft computer"
+  - 
+    date: 1970-02-19
+    serial: 70-FA-T-16
+    sources: 
+      - 2
+      - 6
+    subject: "\"For whom does the bell toll?\" ... \"Delta Guidance\" ... \"Oh!\""
+
