@@ -4,6 +4,7 @@ module Jekyll
   class TindallgramIndexTag < Liquid::Tag
     def initialize(tag_name, markup, tokens)
       super
+      @tag_name = tag_name
       @grams = YAML.load_file('_data/tindallgrams-index.yaml')['tindallgrams']
       @opts = markup.split(/\s+/)
       @filtered = filter(@grams, @opts[0], @opts[1])
@@ -20,10 +21,14 @@ module Jekyll
       return grams
     end
 
-    def render(context)
-      published = Hash[context.registers[:site].pages.
+    def get_published(context)
+      Hash[context.registers[:site].pages.
         reject{|p| p.data['layout'] != 'tindallgram'}.
         map{|p| [p.data['serial'], p]}]
+    end
+
+    def render_index(context)
+      published = get_published(context)
 
       # Make hash index of published pages
 
@@ -62,7 +67,48 @@ module Jekyll
       output += '</tbody></table>'
       return output
     end
+
+    def render_summary(context)
+      total = @grams.count
+      pub = get_published.keys.count
+      pct = pub/total.to_f
+
+      return "#{pct} (#{pub} of #{total})"
+    end
+
+    def render(context)
+      if @tag_name == 'tgindex_summary'
+        render_summary(context)
+      end
+      render_index(context)
+    end
+  end
+end
+
+module Jekyll
+  class TindallgramIndexSummary < Liquid::Tag
+    def initialize(tag_name, markup, tokens)
+      super
+      @tag_name = tag_name
+      @grams = YAML.load_file('_data/tindallgrams-index.yaml')['tindallgrams']
+    end
+
+    def get_published(context)
+      Hash[context.registers[:site].pages.
+        reject{|p| p.data['layout'] != 'tindallgram'}.
+        map{|p| [p.data['serial'], p]}]
+    end
+
+    def render(context)
+      total = @grams.count
+      pub = get_published(context).keys.count
+      pct = pub/total.to_f
+
+      return '%0.2f%% (%i of %i)' % [pct*100, pub, total]
+      # return "#{pct} (#{pub} of #{total})"
+    end
   end
 end
 
 Liquid::Template.register_tag('tgindex', Jekyll::TindallgramIndexTag)
+Liquid::Template.register_tag('tgindex_summary', Jekyll::TindallgramIndexSummary)
