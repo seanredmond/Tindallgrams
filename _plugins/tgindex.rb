@@ -13,6 +13,8 @@ module Jekyll
     def filter(grams, filter_type, filter_value)
       if filter_type == 'year'
         return grams.reject{|g| g['date'].strftime('%Y') != filter_value}
+      elsif filter_type == 'source'
+        return grams.reject{|g| !g['sources'].include?(filter_value.to_i)}
       end
 
       return grams
