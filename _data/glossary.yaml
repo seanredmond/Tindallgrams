@@ -11,7 +11,7 @@ glossary:
     def: "Before the Apollo 1 fire, the mission referred to as AS-503 was originally scheduled for October 1967. AS-503 eventually launched as Apollo 8, December 23 1968."
   -
     term: AS-207/208
-    def: "Before the Apollo 1 fire, AS-207/208 was to have been a dual mission with the comman and lunar modules launched on separate Saturn 1Bs. AS-207 eventually launched Skylab 3 on July 28, 1973 and AS-208 launched Skylab 4 on November 16, 1978."
+    def: "Before the Apollo 1 fire, AS-207/208 was to have been a dual mission with the command and lunar modules launched on separate Saturn 1Bs. AS-207 eventually launched Skylab 3 on July 28, 1973 and AS-208 launched Skylab 4 on November 16, 1978."
   -
     term: AS-207
     cf: AS-207/208
@@ -32,7 +32,7 @@ glossary:
     cf: 'Fire-in-the-hole'
   -
     term: Fire-in-the-hole
-    def: 'When the LM’s Ascent Propulsion System was fired with the descent stage still attached, for instance if the mission were aborted during lunar landing, this was called ”Fire in the hole.”'
+    def: "When the LM’s Ascent Propulsion System was fired with the descent stage still attached, for instance if the mission were aborted during lunar landing, this was called ”Fire in the hole. ” The first test of this maneuver was planned for AS-207/208. After that mission was cancelled, it was ultimately tested during the unmanned Apollo 5 mission in January 1968. Nasa produced [a short film about Apollo 5](https://www.youtube.com/watch?v=Po178Hs2dXI) that briefly explains FITH."
   -
     term: "Gimbal Lock"
     def: "The loss of one degree of freedom in a three-dimensional space that occurs when the axes of two of the three gimbals are driven into a parallel configuration, “locking” the system into rotation in a degenerate two-dimensional space. More at [Wikipedia](https://en.wikipedia.org/wiki/Gimbal_lock)."
