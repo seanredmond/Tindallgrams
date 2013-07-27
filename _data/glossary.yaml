@@ -1,0 +1,107 @@
+--- 
+glossary:
+  - 
+    term: "200 Series"
+    def: "The “200 Series” missions were those scheduled to use a Saturn IB rocket as the launch vehicle."
+  -
+    term: AS-504
+    def: "Before the Apollo 1 fire, the mission referred to as AS-504 was originally scheduled for December 1967. AS-504 eventually launched as Apollo 9, March 3 1969."
+  -
+    term: AS-503
+    def: "Before the Apollo 1 fire, the mission referred to as AS-503 was originally scheduled for October 1967. AS-503 eventually launched as Apollo 8, December 23 1968."
+  -
+    term: AS-207/208
+    def: "Before the Apollo 1 fire, AS-207/208 was to have been a dual mission with the comman and lunar modules launched on separate Saturn 1Bs. AS-207 eventually launched Skylab 3 on July 28, 1973 and AS-208 launched Skylab 4 on November 16, 1978."
+  -
+    term: AS-207
+    cf: AS-207/208
+  -
+    term: AS-208
+    cf: AS-207/208
+  -
+    term: ASPO
+    def: "Apollo Spacecraft Program Office."
+  -
+    term: CSM
+    def: "[Command-Service Module](https://en.wikipedia.org/wiki/Command_Service_Module)."
+  -
+    term: EVA
+    def: "Extra-vehicular activity, such as space-walks and moon-walks."
+  -
+    term: FITH
+    cf: 'Fire-in-the-hole'
+  -
+    term: Fire-in-the-hole
+    def: 'When the LM’s Ascent Propulsion System was fired with the descent stage still attached, for instance if the mission were aborted during lunar landing, this was called ”Fire in the hole.”'
+  -
+    term: "Gimbal Lock"
+    def: "The loss of one degree of freedom in a three-dimensional space that occurs when the axes of two of the three gimbals are driven into a parallel configuration, “locking” the system into rotation in a degenerate two-dimensional space. More at [Wikipedia](https://en.wikipedia.org/wiki/Gimbal_lock)."
+  -
+    term: LEM
+    cf: LM
+  -
+    term: LM
+    def: "[Lunar Module](https://en.wikipedia.org/wiki/Apollo_Lunar_Module). Earlier it was known as the Lunar Excursion Module and abbreviated “LEM.” Even after the name change, it continued to pronounced “lem.”"
+  -
+    term: LORS
+    def: Lunar optical rendezvous system.
+  -
+    term: MCC
+    def: "[Mission Control Center](https://en.wikipedia.org/wiki/Christopher_C._Kraft_Jr._Mission_Control_Center). Popularly known as “Houston” (as in “Houston, we have a problem”)"
+  -
+    term: MPAD
+    def: Mission Planning and Analysis Division (part of MSC).
+  -
+    term: MSC
+    def: "Manned Spacecraft Center. Now known as [Johnson Space Center](http://www.nasa.gov/centers/johnson/home/index.html)."
+  -
+    term: MIT
+    def: "Massachussets Institute of Technology. In these memos, MIT is shorthand for the MIT Instrumentation Laboratory, created and led by avionics pioneer [Charles Stark Draper](https://en.wikipedia.org/wiki/Charles_Stark_Draper). It is now known as the Charles Stark Draper Laboratory and became independent of MIT in 1973."
+  -
+    term: RCS
+    def: "[Reaction Control System](https://en.wikipedia.org/wiki/Reaction_control_system)."
+  -
+    term: RTCC
+    def: "Real-Time Computer Complex. The IBM computing and data processing system at MSC."
+  -
+    term: S-II
+    def: Second stage of a Saturn V rocket.
+  -
+    term: S-IVB
+    def: The second stage of a Saturn IB ot the third stage of a Saturn V.
+  -
+    term: SPS
+    def: "Service Propulsion System, the large engine of the Command Module that was used to enter and exit lunar orbit, as well as make course corrections while going to and from the moon."
+  -
+    term: Ullage
+    def: "Ullage is the empty space in a liquid rocket’s fuel tank. In zero-gravity, the fuel of course tended to float around inside the tank. Before many maneuvers, rockets were gently fired for a short time “for ullage,” that is, to push all the fuel to the back of the tank so that calculation about how to maneuver the spacecraft would be more simple and accurate."
+  -
+    term: "Dr. Battin"
+    cf: "Battin, Richard"
+  -
+    term: "Battin, Richard"
+    def: "Member of the MIT Instrumentation Lab. You can take his [MIT Astrodynamics class online](http://ocw.mit.edu/courses/aeronautics-and-astronautics/16-346-astrodynamics-fall-2008/index.htm)"
+  -
+    term: "E. Copps"
+    cf: "Copps, Ed"
+  -
+    term: "Copps, Ed"
+    def: "Member of the MIT Instrumentation Lab"
+  -
+    term: "N. Sears"
+    cf: "Sears, Norman E."
+  -
+    term: "Sears, Norman E."
+    def: "Member of the MIT Instrumentation Lab"
+  -
+    term: "J. Dahlen"
+    cf: "Sears, Norman E."
+  -
+    term: "Dahlen, J. M."
+    def: "Member of the MIT Instrumentation Lab"
+  -
+    term: "J. Nevins"
+    cf: "Nevins, James L."
+  -
+    term: "Nevins, James L."
+    def: "Member of the MIT Instrumentation Lab"

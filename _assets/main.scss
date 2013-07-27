@@ -117,6 +117,7 @@ h1 {
 .header {
     &.inner {
         position: relative;
+        border-bottom: 1px solid black;
         
         a {
             color: black;
@@ -189,7 +190,9 @@ table.sources {
     }
 
 }
+
 @import "_assets/tindallgram";
+@import "_assets/glossary";
 
 
 
