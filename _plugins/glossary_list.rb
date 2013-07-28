@@ -6,12 +6,12 @@ module Jekyll
       @site = site
       @base = base
       @dir = dir
-      @name = "#{alpha}.html"
+      @name = "#{alpha.downcase}.html"
 
       self.process(@name)
       self.read_yaml(File.join(base, '_layouts'), 'glossary_page.html')
 
-      self.data['title'] = "Glossary #{alpha}"
+      self.data['title'] = alpha
       glosslist = glosslist.keys.sort{|a, b| a.downcase <=> b.downcase}.map{|k| glosslist[k]}
       self.data['glosslist'] = glosslist
     end
@@ -38,14 +38,14 @@ module Jekyll
 
       #First generate a page for all terms that don't begin with a letter
       by_letter = @glossary.reject{|k,v| k[0].downcase =~ /[a-z]/}
-      site.pages << GlossaryPage.new(site, site.source, dir, 'non-alpha', by_letter)
+      site.pages << GlossaryPage.new(site, site.source, dir, 'Non-alpha', by_letter)
 
       # Make a list of all the first characters of the glossary terms
       letters = @glossary.keys.map{|a| a[0].downcase}.uniq
 
       letters.reject{|l| l =~ /[^a-z]/}.each do |category|
         by_letter = @glossary.reject{|k,v| k[0].downcase != category}
-        site.pages << GlossaryPage.new(site, site.source, dir, category, by_letter)
+        site.pages << GlossaryPage.new(site, site.source, dir, category.upcase, by_letter)
       end
     end
   end
