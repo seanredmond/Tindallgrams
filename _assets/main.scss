@@ -103,6 +103,11 @@ h1 {
 
 .google-cse {
     width: 35%;
+    z-index: 500;
+
+    .gsc-results-wrapper-nooverlay.gsc-results-wrapper-visible {
+        border: 1px solid black;
+    }
 }
 
 .bigquote {
