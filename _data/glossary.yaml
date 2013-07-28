@@ -74,7 +74,7 @@ glossary:
     def: "Service Propulsion System, the large engine of the Command Module that was used to enter and exit lunar orbit, as well as make course corrections while going to and from the moon."
   -
     term: Ullage
-    def: "Ullage is the empty space in a liquid rocket’s fuel tank. In zero-gravity, the fuel of course tended to float around inside the tank. Before many maneuvers, rockets were gently fired for a short time “for ullage,” that is, to push all the fuel to the back of the tank so that calculation about how to maneuver the spacecraft would be more simple and accurate."
+    def: "Ullage is the empty space in a liquid rocket’s fuel tank. In zero-gravity, the fuel of course tended to float around inside the tank. Before many maneuvers, rockets were gently fired for a short time “for ullage,” that is, to push all the fuel to the back of the tank so that calculations about how to maneuver the spacecraft would be simpler and more accurate."
   -
     term: "Dr. Battin"
     cf: "Battin, Richard"
