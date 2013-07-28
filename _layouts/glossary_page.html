@@ -1,0 +1,16 @@
+---
+layout: inner
+---
+
+  <h2>Terms &amp; Abbreviations: {{ page.title }}</h2>
+
+  {% glossary_alpha %}
+
+  <div class="glossary">
+    <dl>
+      {% for gloss in page.glosslist %}
+      <dt>{{ gloss['term'] }}</dt>
+      <dd>{{ gloss['def'] }}</dd>
+      {% endfor %}
+    </dl>
+  </div>
