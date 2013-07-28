@@ -1,0 +1,16 @@
+---
+layout: inner
+---
+
+  <h2>{{ page.title }}</h2>
+
+  <p>  {% glossary_alpha %} </p>
+
+  <div>
+    <dl>
+      {% for gloss in page.glosslist %}
+      <dt>{{ gloss['term'] }}</dt>
+      <dd>{{ gloss['def'] }}</dd>
+      {% endfor %}
+    </dl>
+  </div>
