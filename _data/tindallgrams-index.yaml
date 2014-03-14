@@ -2982,7 +2982,7 @@ tindallgrams:
     serial: 70-FA-T-12
     sources: 
       - 6
-    subject: "Status report on teh \"P66\" fix"
+    subject: "Status report on the \"P66\" fix"
   - 
     date: 1970-02-12
     serial: 70-FA-T-13
