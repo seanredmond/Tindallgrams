@@ -24,6 +24,9 @@ glossary:
     term: ASPO
     def: "Apollo Spacecraft Program Office."
   -
+    term: CDDT
+    def: "Countdown Demonstration Test."
+  -
     term: CSM
     def: "[Command-Service Module](https://en.wikipedia.org/wiki/Command_Service_Module)."
   -
@@ -36,6 +39,9 @@ glossary:
     term: Fire-in-the-hole
     def: "When the LM’s Ascent Propulsion System was fired with the descent stage still attached, for instance if the mission were aborted during lunar landing, this was called ”Fire in the hole. ” The first test of this maneuver was planned for AS-207/208. After that mission was cancelled, it was ultimately tested during the unmanned Apollo 5 mission in January 1968. Nasa produced [a short film about Apollo 5](https://www.youtube.com/watch?v=Po178Hs2dXI) that briefly explains FITH."
   -
+    term: FMES
+    def: "Full Mission Engineering Simulator."
+  -
     term: "Gimbal Lock"
     def: "The loss of one degree of freedom in a three-dimensional space that occurs when the axes of two of the three gimbals are driven into a parallel configuration, “locking” the system into rotation in a degenerate two-dimensional space. More at [Wikipedia](https://en.wikipedia.org/wiki/Gimbal_lock)."
   -
@@ -45,11 +51,14 @@ glossary:
     term: "Guidance System Operations Plan"
     def: The GSOP was essentially the specification for how the guidance computer and its software where required to work for a specific mission. Many of GSOP’s are [available online](http://www.ibiblio.org/apollo/links.html#Guidance_System_Operations_Plans_GSOP) including the [GSOP for the cancelled AS-207/208 mission](http://www.ibiblio.org/apollo/hrst/archive/1688.pdf)
   -
+    term: KSC
+    def: "[Kennedy Space Center](https://en.wikipedia.org/wiki/Kennedy_Space_Center)."
+  -
     term: LEM
     cf: LM
   -
     term: LM
-    def: "[Lunar Module](https://en.wikipedia.org/wiki/Apollo_Lunar_Module). Earlier it was known as the Lunar Excursion Module and abbreviated “LEM.” Even after the name change, it continued to pronounced “lem.”"
+    def: "[Lunar Module](https://en.wikipedia.org/wiki/Apollo_Lunar_Module). Earlier it was known as the Lunar Excursion Module and abbreviated “LEM.” Even after the name change, it continued to be pronounced “lem.”"
   -
     term: LORS
     def: Lunar optical rendezvous system.
@@ -66,8 +75,14 @@ glossary:
     term: MIT
     def: "Massachussets Institute of Technology. In these memos, MIT is shorthand for the MIT Instrumentation Laboratory, created and led by avionics pioneer [Charles Stark Draper](https://en.wikipedia.org/wiki/Charles_Stark_Draper). It is now known as the Charles Stark Draper Laboratory and became independent of MIT in 1973."
   -
+    term: PGNCS
+    def: "[Primary Guidance, Navigation and Control System](https://en.wikipedia.org/wiki/Apollo_PGNCS) (pronounced “pings”). The inertial guidance system in both the Command Module and the Lunar Module."
+  -
     term: RCS
     def: "[Reaction Control System](https://en.wikipedia.org/wiki/Reaction_control_system)."
+  -
+    term: ROD
+    def: "Rate of Descent. The guidance computer controlled the rate at which the lunar module descended and held it steady while landing. The ROD switch allowed the pilot to increase or decrease this rate by clicking the switch up (to decrease it) or down (to increase it)." 
   -
     term: RTCC
     def: "Real-Time Computer Complex. The IBM computing and data processing system at MSC."
