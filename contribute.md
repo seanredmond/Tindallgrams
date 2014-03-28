@@ -13,5 +13,5 @@ If you find a typo or any error, you can correct it yourself by making a pull re
 
 ### Editing Tindallgrams
 
-The biggest task by far is editing the Tindallgrams themselves. To contributing in this way, first find a Tindallgram that needs to be editing in one of the [sources](/source/). Fork [the repository](https://github.com/seanredmond/Tindallgrams/), add your edited text and issue a pull request. You can find many guides to this workflow on the internet.
+The biggest task by far is editing the Tindallgrams themselves. To contribute in this way, first find a Tindallgram that needs to be edited in one of the [sources](/source/). Fork [the repository](https://github.com/seanredmond/Tindallgrams/), add your edited text and issue a pull request. You can find many guides to this workflow on the internet.
 
