@@ -4,6 +4,12 @@ glossary:
     term: "200 Series"
     def: "The “200 Series” missions were those scheduled to use a Saturn IB rocket as the launch vehicle."
   -
+    term: AC
+    cf: "AC Sparkplug"
+  -
+    term: "AC Sparkplug"
+    def: "AC Sparkplug was the principal contractor for the construction of Apollo guidance systems."
+  -
     term: "Apollo 1"
     def: "Originally designated AS-204, Apollo 1 was scheduled to be to launch on February 21, 1967 as the first manned Apollo mission. During a test on January 27, 1967, a fire in the crew compartment killed the three Apollo 1 austronauts, Gus Grissom, Ed White, and Roger Chaffee. This fire resulted in reappraisal of just about every goal, procedure, and schedule of the Apollo program."
   -
