@@ -23,6 +23,9 @@ glossary:
     term: AS-208
     cf: AS-207/208
   -
+    term: AS-278
+    cf: AS-207/208
+  -
     term: ASPO
     def: "Apollo Spacecraft Program Office."
   -
