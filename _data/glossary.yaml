@@ -1,3 +1,4 @@
+
 --- 
 glossary:
   - 
@@ -12,6 +13,9 @@ glossary:
   -
     term: "Apollo 1"
     def: "Originally designated AS-204, Apollo 1 was scheduled to be to launch on February 21, 1967 as the first manned Apollo mission. During a test on January 27, 1967, a fire in the crew compartment killed the three Apollo 1 austronauts, Gus Grissom, Ed White, and Roger Chaffee. This fire resulted in reappraisal of just about every goal, procedure, and schedule of the Apollo program."
+  -
+    term: APS
+    def: "[Ascent Propulsion System](https://en.wikipedia.org/wiki/Ascent_Propulsion_System)"
   -
     term: AS-504
     def: "Before the Apollo 1 fire, the mission referred to as AS-504 was originally scheduled for December 1967. AS-504 eventually launched as Apollo 9, March 3 1969."
@@ -40,6 +44,9 @@ glossary:
   -
     term: CSM
     def: "[Command-Service Module](https://en.wikipedia.org/wiki/Command_Service_Module)."
+  -
+    term: DPS
+    def: "[Descent Propulsion System](https://en.wikipedia.org/wiki/Descent_Propulsion_System)."
   -
     term: EVA
     def: "Extra-vehicular activity, such as space-walks and moon-walks."
