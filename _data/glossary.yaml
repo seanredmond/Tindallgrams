@@ -4,6 +4,9 @@ glossary:
   -
     term: "278"
     cf: "AS-207/208"
+  -
+    term: "504"
+    cf: "AS-504"
   - 
     term: "200 Series"
     def: "The “200 Series” missions were those scheduled to use a Saturn IB rocket as the launch vehicle."
