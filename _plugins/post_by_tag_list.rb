@@ -6,6 +6,10 @@ module Jekyll
       super
     end
 
+    def make_id(tag)
+      ['tag', tag.gsub(/\s/, '-').downcase].join('-')
+    end
+
     def render(context)
       tgrams = context.registers[:site].pages.reject{|p| p.data['layout'] != 'tindallgram'}.
         sort{|a, b| DateTime.strptime(a.data['date'], '%b %d %Y') <=> DateTime.strptime(b.data['date'], '%b %d %Y')}
@@ -33,7 +37,7 @@ module Jekyll
       tag_entries = tags.keys.sort
 
       tag_entries.each do |tag|
-        output += "<dt>#{tag}</dt>"
+        output += "<dt id=\"#{make_id(tag)}\">#{tag}</dt>"
         output += "<dd>#{tags[tag].join(', ')}</dd>"
       end
 
