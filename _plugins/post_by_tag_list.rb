@@ -65,8 +65,8 @@ module Jekyll
       output = "<ul class=\"topics\">"
       tags.sort.each do |tag|
         output += %Q|
-<li class="tags">
-  <a href="/tags\##{make_id(tag)}">#{tag}</a>
+<li class="topics">
+  <a href="/topics\##{make_id(tag)}">#{tag}</a>
 </li>|
       end
 

@@ -2,7 +2,9 @@
 layout: inner
 ---
 <article class="tindallgram">
-  <div class="taglist">Topics: {% pagetags %}</div>
+  {% if page.tags %}
+  <div class="topiclist">Topics: {% pagetags %}</div>
+  {% endif %}
   <ul class="headings">
     <li class="date"><span class="label">Date:</span> {{ page.date}}</li>
     <li class="serial"><span class="label"> </span> {{ page.serial}}</li>
