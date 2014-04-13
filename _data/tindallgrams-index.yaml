@@ -2927,6 +2927,7 @@ tindallgrams:
     serial: 70-PA-T-2A
     sources: 
       - 2
+      - 6
     subject: "A small change in CSM DOI confirmation procedures"
   - 
     date: 1970-01-07
@@ -2934,12 +2935,6 @@ tindallgrams:
     sources: 
       - 2
     subject: "Important LM computer program change for Apollo 13 descent"
-  - 
-    date: 1970-01-05
-    serial: 70-PA-T-2A
-    sources: 
-      - 6
-    subject: "A small change in CSM DOI confirmation procedures"
   - 
     date: 1970-01-13
     serial: 70-FM-T-4
