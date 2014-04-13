@@ -1,10 +1,17 @@
 require 'date'
 
 module Jekyll
-  class TagListTag < Liquid::Tag
+  class TagLister < Liquid::Tag
+    def make_id(tag)
+      ['tag', tag.gsub(/\s/, '-').downcase].join('-')
+    end
+  end
+
+  class TagListTag < TagLister
     def initialize(tag_name, markup, tokens)
       super
     end
+
 
     def render(context)
       tgrams = context.registers[:site].pages.reject{|p| p.data['layout'] != 'tindallgram'}.
@@ -33,7 +40,7 @@ module Jekyll
       tag_entries = tags.keys.sort
 
       tag_entries.each do |tag|
-        output += "<dt>#{tag}</dt>"
+        output += "<dt id=\"#{make_id(tag)}\">#{tag}</dt>"
         output += "<dd>#{tags[tag].join(', ')}</dd>"
       end
 
@@ -43,7 +50,7 @@ module Jekyll
 end
 
 module Jekyll
-  class PageTagsTag < Liquid::Tag
+  class PageTagsTag < TagLister
     def initialize(tag_name, markup, tokens)
       super
     end
@@ -55,15 +62,15 @@ module Jekyll
         return
       end
 
-      output = "Tagged: <ul>"
+      output = "<ul class=\"topics\">"
       tags.sort.each do |tag|
         output += %Q|
-<li class="tags">
-  <a href="/tags\##{tag}">#{tag}</a>
+<li class="topics">
+  <a href="/topics\##{make_id(tag)}">#{tag}</a>
 </li>|
       end
 
-      output += "</li>"
+      output += "</li></ul>"
 
 
       return output
