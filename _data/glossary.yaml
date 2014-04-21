@@ -1,5 +1,5 @@
 
---- 
+---
 glossary:
   -
     term: "278"
@@ -7,15 +7,21 @@ glossary:
   -
     term: "504"
     cf: "AS-504"
-  - 
+  -
     term: "200 Series"
     def: "The “200 Series” missions were those scheduled to use a Saturn IB rocket as the launch vehicle."
+  -
+    term: AAP
+    def: "[Apollo Applications Program](https://en.wikipedia.org/wiki/Apollo_Applications_Program)."
   -
     term: AC
     cf: "AC Sparkplug"
   -
     term: "AC Sparkplug"
     def: "AC Sparkplug was the principal contractor for the construction of Apollo guidance systems."
+  -
+    term: AGS
+    def: "[Abort Guidance System](https://en.wikipedia.org/wiki/Apollo_Abort_Guidance_System)."
   -
     term: "Apollo 1"
     def: "Originally designated AS-204, Apollo 1 was scheduled to be to launch on February 21, 1967 as the first manned Apollo mission. During a test on January 27, 1967, a fire in the crew compartment killed the three Apollo 1 austronauts, Gus Grissom, Ed White, and Roger Chaffee. This fire resulted in reappraisal of just about every goal, procedure, and schedule of the Apollo program."
@@ -31,7 +37,7 @@ glossary:
   - term: AS-204
     cf: "Apollo 1"
   - term: AS-206
-    def: "Originally scheduled as the first unmanned flight of the LM, it was cancelled after the Apollo 1. The AS-206 launch vehicle, a Saturn 1B, was used to launch Skylab 2 on May 25, 1973." 
+    def: "Originally scheduled as the first unmanned flight of the LM, it was cancelled after the Apollo 1. The AS-206 launch vehicle, a Saturn 1B, was used to launch Skylab 2 on May 25, 1973."
   -
     term: AS-207/208
     def: "AS-207/208 (also known as AS-278) was to have been the first test of the LM in Earth orbit. It was also to have be a dual mission with the command and lunar modules launched on separate Saturn 1Bs. The mission was cancelled after the Apollo 1 fire and the Saturn 1Bs were used to launch Skylab 3 (AS-207) on July 28, 1973 and Skylab 4 (AS-208) on November 16, 1978. The LM was first tested by Apollo 5 in January 1968."
@@ -48,20 +54,56 @@ glossary:
     term: CDDT
     def: "Countdown Demonstration Test."
   -
+    term: CDH
+    def: "Constant Delta Height (also known as Constant Differential Height). One of the maneuvers performed by the LM after ascent from the lunar surface to rendevouz with the CSM."
+  -
+    term: CDR
+    def: "Critical Design Review."
+  -
     term: CFP
     def: "Concentric Flight Plan."
+  -
+    term: Cluster
+    def: "In AAP parlance, the combination of the S-IVB workshop and attached components."
+  -
+    term: CMC
+    def: "Command Module Computer."
+  -
+    term: CSI
+    def: "Co-Elliptic Sequence Initiation. One of the maneuvers performed by the LM after ascent from the lunar surface to rendevouz with the CSM."
   -
     term: CSM
     def: "[Command-Service Module](https://en.wikipedia.org/wiki/Command_Service_Module)."
   -
+    term: DAP
+    def: "Digital Autopilot."
+  -
+    term: ∆V
+    cf: Delta-v
+  -
+    term: Delta-v
+    def: "The amount of [change in velocity](https://en.wikipedia.org/wiki/Delta-v) required to change a spacecraft's trajectory in a certain way."
+  -
+    term: DOI
+    def: Descent Orbit Insertion. A LM maneuver performed to reduce the altitude of its orbit in preparation for landing.
+  -
     term: DPS
     def: "[Descent Propulsion System](https://en.wikipedia.org/wiki/Descent_Propulsion_System)."
+  -
+    term: EMS
+    def: "Entry Monitoring System. A CM system used during re-entry into the Earth's atmosphere."
   -
     term: EVA
     def: "Extra-vehicular activity, such as space-walks and moon-walks."
   -
+    term: FCD
+    def: "Flight Control Division."
+  -
     term: FCSD
     def: "Flight Crew Support Division."
+  -
+    term: FDAI
+    def: 'Flight Director Attitude Indicator. An instrument in the CM used to keep track of the orientation of the spacecraft. Commonly referred to as the "8-ball".'
   -
     term: FITH
     cf: 'Fire-in-the-hole'
@@ -71,6 +113,12 @@ glossary:
   -
     term: FMES
     def: "Full Mission Engineering Simulator."
+  -
+    term: FOD
+    def: "Flight Operations Directorate."
+  -
+    term: "G&N"
+    def: "Guidance and Navigation."
   -
     term: GCD
     def: "Guidance Control Division."
@@ -84,11 +132,20 @@ glossary:
     term: "Guidance System Operations Plan"
     def: The GSOP was essentially the specification for how the guidance computer and its software where required to work for a specific mission. Many of GSOP’s are [available online](http://www.ibiblio.org/apollo/links.html#Guidance_System_Operations_Plans_GSOP) including the [GSOP for the cancelled AS-207/208 mission](http://www.ibiblio.org/apollo/hrst/archive/1688.pdf)
   -
+    term: H-2
+    def: "An alternative designation for the Apollo 13 mission, being the second of the [H series](https://en.wikipedia.org/wiki/List_of_Apollo_mission_types) of high-precision lunar landing missions."
+  -
+    term: IMU
+    def: "[Intertial Measurement Unit](https://en.wikipedia.org/wiki/Apollo_PGNCS#Inertial_Measurement_Unit)"
+  -
     term: KSC
     def: "[Kennedy Space Center](https://en.wikipedia.org/wiki/Kennedy_Space_Center)."
   -
     term: LEM
     cf: LM
+  -
+    term: LGC
+    def: "Lunar Module Guidance Computer."
   -
     term: LM
     def: "[Lunar Module](https://en.wikipedia.org/wiki/Apollo_Lunar_Module). Earlier it was known as the Lunar Excursion Module and abbreviated “LEM.” Even after the name change, it continued to be pronounced “lem.”"
@@ -96,17 +153,53 @@ glossary:
     term: LORS
     def: Lunar optical rendezvous system.
   -
+    term: LPD
+    def: "Landing Point Designator. A set of marks on the LM window that helped the crew locate the designated landing area."
+  -
     term: MCC
     def: "[Mission Control Center](https://en.wikipedia.org/wiki/Christopher_C._Kraft_Jr._Mission_Control_Center). Popularly known as “Houston” (as in “Houston, we have a problem”)"
   -
     term: MPAD
     def: Mission Planning and Analysis Division (part of MSC).
   -
+    term: MSFC
+    def: "[Marshall Space Flight Center](http://www.nasa.gov/centers/marshall)"
+  -
+    term: MSFN
+    def: '[Manned Space Flight Network](http://en.wikipedia.org/wiki/Manned_Space_Flight_Network) (pronounced "misfin").'
+  -
     term: MSC
     def: "Manned Spacecraft Center. Now known as [Johnson Space Center](http://www.nasa.gov/centers/johnson/home/index.html)."
   -
     term: MIT
     def: "Massachussets Institute of Technology. In these memos, MIT is shorthand for the MIT Instrumentation Laboratory, created and led by avionics pioneer [Charles Stark Draper](https://en.wikipedia.org/wiki/Charles_Stark_Draper). It is now known as the Charles Stark Draper Laboratory and became independent of MIT in 1973."
+  -
+    term: NCC
+    def: "Corrective Combination, an orbital maneuver originally used in the Gemini program."
+  -
+    term: NSR
+    def: "Co-elliptical, an orbital maneuver originally used in the Gemini program."
+  -
+    term: P11
+    def: "Earth Orbit Insertion (EOI) Monitor, a program in the command module computer."
+  -
+    term: P64
+    def: "LGC Approach Phase program."
+  -
+    term: P65
+    def: "LGC Landing Phase (Auto)."
+  -
+    term: P66
+    def: "LGC Landing Phase (ROD) program."
+  -
+    term: P67
+    def: "LGC Landing Phase (Manual) program."
+  -
+    term: Perigee
+    def: "The point in an Earth orbit where the orbiting object is closest to the Earth's center."
+  -
+    term: PCR
+    def: "Program Change Request."
   -
     term: PGNCS
     def: "[Primary Guidance, Navigation and Control System](https://en.wikipedia.org/wiki/Apollo_PGNCS) (pronounced “pings”). The inertial guidance system in both the Command Module and the Lunar Module."
@@ -115,7 +208,7 @@ glossary:
     def: "[Reaction Control System](https://en.wikipedia.org/wiki/Reaction_control_system)."
   -
     term: ROD
-    def: "Rate of Descent. The guidance computer controlled the rate at which the lunar module descended and held it steady while landing. The ROD switch allowed the pilot to increase or decrease this rate by clicking the switch up (to decrease it) or down (to increase it)." 
+    def: "Rate of Descent. The guidance computer controlled the rate at which the lunar module descended and held it steady while landing. The ROD switch allowed the pilot to increase or decrease this rate by clicking the switch up (to decrease it) or down (to increase it)."
   -
     term: RTCC
     def: "Real-Time Computer Complex. The IBM computing and data processing system at MSC."
@@ -124,13 +217,19 @@ glossary:
     def: Second stage of a Saturn V rocket.
   -
     term: S-IVB
-    def: The second stage of a Saturn IB ot the third stage of a Saturn V.
+    def: The second stage of a Saturn IB of the third stage of a Saturn V.
   -
     term: SPS
     def: "Service Propulsion System, the large engine of the Command Module that was used to enter and exit lunar orbit, as well as make course corrections while going to and from the moon."
   -
+    term: TPI
+    def: "Transfer Phase Initiation (also known as Terminal Phase Initiation). One of the maneuvers performed by the LM after ascent from the lunar surface to rendevouz with the CSM."
+  -
     term: Ullage
     def: "Ullage is the empty space in a liquid rocket’s fuel tank. In zero-gravity, the fuel of course tended to float around inside the tank. Before many maneuvers, rockets were gently fired for a short time “for ullage,” that is, to push all the fuel to the back of the tank so that calculations about how to maneuver the spacecraft would be simpler and more accurate."
+  -
+    term: VAB
+    def: "[Vehicle Assembly Building](https://en.wikipedia.org/wiki/Vehicle_Assembly_Building)"
   -
     term: "Dr. Battin"
     cf: "Battin, Richard"
