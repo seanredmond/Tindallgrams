@@ -34,10 +34,12 @@ glossary:
   -
     term: AS-503
     def: "Before the Apollo 1 fire, the mission referred to as AS-503 was originally scheduled for October 1967. AS-503 eventually launched as Apollo 8, December 23 1968."
-  - term: AS-204
+  -
+    term: AS-204
     cf: "Apollo 1"
-  - term: AS-206
-    def: "Originally scheduled as the first unmanned flight of the LM, it was cancelled after the Apollo 1. The AS-206 launch vehicle, a Saturn 1B, was used to launch Skylab 2 on May 25, 1973."
+  -
+    term: AS-206
+    def: "Originally scheduled as the first unmanned flight of the LM, it was cancelled after the Apollo 1 fire. The AS-206 launch vehicle, a Saturn 1B, was used to launch Skylab 2 on May 25, 1973."
   -
     term: AS-207/208
     def: "AS-207/208 (also known as AS-278) was to have been the first test of the LM in Earth orbit. It was also to have be a dual mission with the command and lunar modules launched on separate Saturn 1Bs. The mission was cancelled after the Apollo 1 fire and the Saturn 1Bs were used to launch Skylab 3 (AS-207) on July 28, 1973 and Skylab 4 (AS-208) on November 16, 1978. The LM was first tested by Apollo 5 in January 1968."
@@ -217,7 +219,7 @@ glossary:
     def: Second stage of a Saturn V rocket.
   -
     term: S-IVB
-    def: The second stage of a Saturn IB of the third stage of a Saturn V.
+    def: The second stage of a Saturn IB or the third stage of a Saturn V.
   -
     term: SPS
     def: "Service Propulsion System, the large engine of the Command Module that was used to enter and exit lunar orbit, as well as make course corrections while going to and from the moon."
