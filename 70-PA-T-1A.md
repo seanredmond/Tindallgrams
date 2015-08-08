@@ -67,7 +67,7 @@ December 23. Gene Cernan and Pete Conrad exercised it in the LMS that day and
 proclaimed it to be outstanding. Jim Lovell has also played with it at the Cape
 and is said to have expressed his pleasure and burning desire for it. MIT, in
 the meantime, has completed their detailed reverification of the program. GAC's
-Clint Tillman has also exercised it on their simalator and John Norton has
+Clint Tillman has also exercised it on their simulator and John Norton has
 reviewed the actual coding and I am told declared it to be a work of art. In
 other words, although we are messing with absolutely the most critical part of
 the most critical phase of the mission, we are confident that the change has

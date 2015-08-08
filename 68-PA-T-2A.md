@@ -4,7 +4,7 @@ title: 68-PA-T-2A
 date: Jan 11 1968
 from: PA/Chief, Apollo Data Priority Coordination
 serial: 68-PA-T-2A
-subject: First 2 hours on the moon is a countdown to launch - simulated or rea! thing.
+subject: First 2 hours on the moon is a countdown to launch - simulated or real thing.
 ---
 
 1. Those who participated in the STAC presentation already know this,
