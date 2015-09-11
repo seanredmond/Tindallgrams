@@ -222,7 +222,7 @@ glossary:
     def: The second stage of a Saturn IB or the third stage of a Saturn V.
   -
     term: SPS
-    def: "Service Propulsion System, the large engine of the Command Module that was used to enter and exit lunar orbit, as well as make course corrections while going to and from the moon."
+    def: "Service Propulsion System, the large engine of the Service Module that was used to enter and exit lunar orbit, as well as make course corrections while going to and from the moon."
   -
     term: TPI
     def: "Transfer Phase Initiation (also known as Terminal Phase Initiation). One of the maneuvers performed by the LM after ascent from the lunar surface to rendevouz with the CSM."
