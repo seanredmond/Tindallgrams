@@ -65,8 +65,12 @@ textarea {
 }
 
 body {
-    width: 960px;
+    max-width: 960px;
     margin: 2em auto;
+
+    @media only screen and (max-width: 960px) {
+	margin: 2em;
+    }
 }
 
 h1, h2, h3 {
@@ -98,6 +102,11 @@ h1 {
 
     iframe {
         border: none;
+    }
+
+    @media screen and (max-width: 575px) {
+	position: relative;
+	height: 47px;
     }
 }
 
@@ -183,6 +192,7 @@ table.sources {
 
     td {
         padding: .25em 1em;
+	vertical-align: top;
 
         &.serial {
             min-width: 7em;

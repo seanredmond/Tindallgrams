@@ -1,6 +1,6 @@
 .tindallgram {
   font-family: Courier, serif;
-  width: 45em;
+  max-width: 45em;
   margin: 2em auto;
 
   h1 {
@@ -16,32 +16,40 @@
   }
 
   .headings {
-    position: relative;
-    list-style-type: none;
-    padding: 0;
+      @media only screen and (min-width: 769px) {
+	  position: relative;
+	  list-style-type: none;
+	  padding: 0;
+	  
+	  .from {
+	      width: 50%;
+	      position : absolute;
+	      top: 0;
+	      left: 0;
 
-    .from {
-      width: 50%;
-      position : absolute;
-      top: 0;
-      left: 0;
+	  }
 
-    }
+	  .date {
+	      position: absolute;
+	      right: 0
+	  }
 
-    .date {
-      position: absolute;
-      right: 0
-    }
+	  .serial {
+	      position: absolute;
+	      right: 0;
+	      top: 1.5em;
+	  }
+	  
+	  .subject {
+	      padding-top: 3.5em;
+	  }
+      }
 
-    .serial {
-      position: absolute;
-      right: 0;
-      top: 1.5em;
-    }
-
-    .subject {
-      padding-top: 3.5em;
-    }
+      .serial {
+	  .label {
+	      display: none;
+	  }
+      }
   }
 }
 
