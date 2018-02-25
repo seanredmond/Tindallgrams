@@ -19,3 +19,6 @@ gem "redcarpet", "~> 3.4"
 
 # Added at 2018-02-25 18:07:00 -0500 by sean:
 gem "rake", "~> 12.3"
+
+# Added at 2018-02-25 18:10:36 -0500 by sean:
+gem "pygments.rb", "~> 1.2"
