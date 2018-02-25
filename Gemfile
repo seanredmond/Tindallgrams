@@ -16,3 +16,6 @@ gem 'unicorn'
 
 # Added at 2018-02-25 12:44:53 -0500 by sean:
 gem "redcarpet", "~> 3.4"
+
+# Added at 2018-02-25 18:07:00 -0500 by sean:
+gem "rake", "~> 12.3"
