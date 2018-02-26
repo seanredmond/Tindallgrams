@@ -1,0 +1,284 @@
+--- 
+tindallgrams: 
+  - 
+    date: 1966-12-05
+    serial: 66-FM1-59
+    sources: 
+      - 2
+    subject: "Spacecraft computer program requirements for AS-207/208, AS-503, and AS-504"
+  - 
+    date: 1966-05-16
+    serial: 66-FM1-60
+    sources: 
+      - 2
+    subject: "Comments on the AS-207/208 Preliminary Spacecraft Reference Trajectory"
+  - 
+    date: 1966-05-27
+    serial: 66-FM1-64
+    sources: 
+      - 2
+    subject: "CSM orbit determination using the LEM radar"
+  - 
+    date: 1966-05-31
+    serial: 66-FM1-68
+    sources: 
+      - 7
+    subject: "Apollo spacecraft computer program development newsletter"
+  - 
+    date: 1966-06-02
+    serial: 66-FM1-70
+    sources: 
+      - 2
+    subject: "Spacecraft computer program status report"
+  - 
+    date: 1966-06-13
+    serial: 66-FM1-75
+    sources: 
+      - 7
+    subject: "Apollo spacecraft computer programs--or, a bucket of worms"
+  - 
+    date: 1966-07-01
+    serial: 66-FM1-78
+    sources: 
+      - 7
+    subject: "Another Apollo spacecraft computer program status report"
+  - 
+    date: 1966-06-11
+    serial: 66-FM1-83
+    sources: 
+      - 2
+    subject: "Apollo rendezvous guidance computer program options"
+  - 
+    date: 1966-07-11
+    serial: 66-FM1-84
+    sources: 
+      - 2
+    subject: "Capability to do orbit navigation in earth orbit will not be implemented for AS-207 or AS-504"
+  - 
+    date: 1966-07-08
+    serial: 66-FM1-85
+    sources: 
+      - 2
+    subject: "Determination of relative CSM orbit"
+  - 
+    date: 1966-07-08
+    serial: 66-FM1-86
+    sources: 
+      - 2
+    subject: "No special program available for targeting the CSM plane change in lunar orbit"
+  - 
+    date: 1966-07-11
+    serial: 66-FM1-89
+    sources: 
+      - 2
+    subject: "LEM radar angle bias correction"
+  - 
+    date: 1966-07-18
+    serial: 66-FM1-94
+    sources: 
+      - 2
+    subject: "Rendezvous terminal phase guidance program in the Apollo spacecraft computer"
+  - 
+    date: 1966-07-21
+    serial: 66-FM1-95
+    sources: 
+      - 7
+    subject: "AS-204 computer program status"
+  - 
+    date: 1966-08-30
+    serial: 66-FM1-100
+    sources: 
+      - 2
+    subject: "Notes regarding the AS-207/208 Guidance Systems Operations Plan (GSOP) meeting with MIT"
+  - 
+    date: 1966-08-30
+    serial: 66-FM1-103
+    sources: 
+      - 2
+    subject: "Automatic rendezvous braking maneuver"
+  - 
+    date: 1966-09-02
+    serial: 66-FM1-104
+    sources: 
+      - 2
+    subject: "Status of the lunar module \"quick return\" guidance capability"
+  - 
+    date: 1966-09-19
+    serial: 66-FM1-107
+    sources: 
+      - 2
+    subject: "Alternate rendezvous technique - mission planning status"
+  - 
+    date: 1966-09-20
+    serial: 66-FM1-108
+    sources: 
+      - 7
+    subject: "Spacecraft computer program status for AS-501"
+  - 
+    date: 1966-09-21
+    serial: 66-FM1-109
+    sources: 
+      - 2
+    subject: "Mission rules needed for use with AGC self-check"
+  - 
+    date: 1966-09-21
+    serial: 66-FM1-110
+    sources: 
+      - 2
+    subject: "LGC computer requirements to provide DPS backup of SPS"
+  - 
+    date: 1966-09-21
+    serial: 66-FM1-111
+    sources: 
+      - 2
+    subject: "Rendezvous search modes of various types"
+  - 
+    date: 1966-09-21
+    serial: 66-FM1-112
+    sources: 
+      - 2
+    subject: "Apollo rendezvous navigation data edit is too complicated"
+  - 
+    date: 1966-09-21
+    serial: 66-FM1-113
+    sources: 
+      - 2
+    subject: "There are differences in the descent guidance programs on AS-503 and AS-504"
+  - 
+    date: 1966-09-22
+    serial: 66-FM1-114
+    sources: 
+      - 2
+    subject: "Apollo spacecraft guidance navigation modes currently planned for AS-$03 and AS-504"
+  - 
+    date: 1966-09-27
+    serial: 66-FM1-115
+    sources: 
+      - 2
+    subject: "LGC program development for the AS-278B"
+  - 
+    date: 1966-10-04
+    serial: 66-FM1-118
+    sources: 
+      - 2
+    subject: "No extra memory for the Apollo Spacecraft Computer"
+  - 
+    date: 1966-10-11
+    serial: 66-FM1-123
+    sources: 
+      - 2
+    subject: "Procedure for obtaining Apollo Spacecraft Computer Program schedule information"
+  - 
+    date: 1966-10-11
+    serial: 66-FM1-124
+    sources: 
+      - 2
+    subject: "Program Development Plans are coming!!"
+  - 
+    date: 1966-10-12
+    serial: 66-FM1-129
+    sources: 
+      - 2
+    subject: "Cursory definition of Spacecraft Computer Program capabilities currently planned for AS-503 and AS-504"
+  - 
+    date: 1966-10-12
+    serial: 66-FM1-130
+    sources: 
+      - 2
+    subject:  Altitude and velocity limits imposed by the spacecraft computer program on the AS-503 mission
+  - 
+    date: 1966-10-10
+    serial: 66-FM1-131
+    sources: 
+      - 2
+    subject: "More on Program Development"
+  - 
+    date: 1966-10-14
+    serial: 66-FM1-132
+    sources: 
+      - 2
+    subject: "LGC program requirements and mission constraints on alternate mission AS-278B"
+  - 
+    date: 1966-10-14
+    serial: 66-FM1-133
+    sources: 
+      - 2
+    subject: "AS-206 LGC program status"
+  - 
+    date: 1966-10-17
+    serial: 66-FM1-135
+    sources: 
+      - 2
+    subject: "Verification of LGC when powered-up in space"
+  - 
+    date: 1966-10-17
+    serial: 66-FM1-136
+    sources: 
+      - 2
+    subject: "Apollo Spacecraft Computer Program Schedule"
+  - 
+    date: 1966-10-17
+    serial: 66-FM1-137
+    sources: 
+      - 2
+    subject: "Another AGC program development report"
+  - 
+    date: 1966-11-03
+    serial: 66-FM1-141
+    sources: 
+      - 2
+    subject: "AGC program for AS-501/502 - Final status report"
+  - 
+    date: 1966-11-01
+    serial: 66-FM1-142
+    sources: 
+      - 2
+    subject: "In which some items of interest regarding the AS-206 LGC program status are discussed"
+  - 
+    date: 1966-11-14
+    serial: 66-FM1-148
+    sources: 
+      - 2
+    subject: "AGS program status for AS-278"
+  - 
+    date: 1966-11-14
+    serial: 66-FM1-151
+    sources: 
+      - 2
+    subject: "Ground rules for MIT man loading for AGC programming"
+  - 
+    date: 1966-11-25
+    serial: 66-FM1-168
+    sources: 
+      - 2
+    subject: "Small program change needed in the AS-501/502 AGC program"
+  - 
+    date: 1966-11-28
+    serial: 66-FM1-169
+    sources: 
+      - 2
+    subject: "LGC program status for AS-206"
+  - 
+    date: 1966-11-28
+    serial: 66-FM1-170
+    sources: 
+      - 2
+    subject: "More interesting things about our work with MIT"
+  - 
+    date: 1966-12-22
+    serial: 66-FM1-188
+    sources: 
+      - 2
+    subject: "DAP initialization simplification"
+  - 
+    date: 1966-12-22
+    serial: 66-FM1-189
+    sources: 
+      - 2
+    subject: "We've bit the bullet on GRR"
+  - 
+    date: 1966-12-22
+    serial: 66-FM1-191
+    sources: 
+      - 2
+    subject: "MIT's digital computers are saturated until the IBM 360 becomes operational"

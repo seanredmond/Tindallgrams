@@ -1,0 +1,84 @@
+.tindallgram {
+  font-family: Courier, serif;
+  max-width: 45em;
+  margin: 2em auto;
+
+  h1 {
+    font-family: Courier, serif;
+    font-size: 100%;
+    font-weight: normal;
+    text-decoration: underline;
+  }
+
+  em {
+    font-style: normal;
+    text-decoration: underline;
+  }
+
+  .headings {
+      @media only screen and (min-width: 769px) {
+	  position: relative;
+	  list-style-type: none;
+	  padding: 0;
+	  
+	  .from {
+	      width: 50%;
+	      position : absolute;
+	      top: 0;
+	      left: 0;
+
+	  }
+
+	  .date {
+	      position: absolute;
+	      right: 0
+	  }
+
+	  .serial {
+	      position: absolute;
+	      right: 0;
+	      top: 1.5em;
+	  }
+	  
+	  .subject {
+	      padding-top: 3.5em;
+	  }
+      }
+
+      .serial {
+	  .label {
+	      display: none;
+	  }
+      }
+  }
+}
+
+.topiclist {
+  font-family: 'Oswald', sans-serif; 
+  a {
+    color: white;
+    text-decoration: none;
+  }
+
+  ul {
+    list-style-type: none;
+    display: inline;
+    margin: 0 0 0 0.5em;
+    padding: 0;
+
+    li {
+      display: inline;
+      margin-right: 1em;
+      border: 1px solid black;
+      padding: 0 0.5em;
+      border-radius: 3px;
+      background-color: gray;
+      font-size: .9em;
+
+      &:hover {
+        background-color: silver;
+      }
+
+    }
+  }
+}
