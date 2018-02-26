@@ -22,3 +22,12 @@ gem "rake", "~> 12.3"
 
 # Added at 2018-02-25 18:10:36 -0500 by sean:
 gem "pygments.rb", "~> 1.2"
+
+# Added at 2018-02-25 18:16:44 -0500 by sean:
+gem "kramdown", "~> 1.16"
+
+# Added at 2018-02-25 18:16:57 -0500 by sean:
+gem "rouge", "~> 3.1"
+
+# Added at 2018-02-25 18:22:41 -0500 by sean:
+gem "jekyll-assets", "~> 3.0"

@@ -1,5 +1,8 @@
 name: Your New Jekyll Site
-highlighter: pygments
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 exclude:
  - unicorn.rb
  - README.md
