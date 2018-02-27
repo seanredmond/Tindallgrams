@@ -9,7 +9,7 @@ module Jekyll
       super
       @tag = tag_name
       @text = text
-      @search_url = 'http://duckduckgo.com/search.html'
+      @search_url = 'https://duckduckgo.com/search.html'
       # options that control output
       @tag_options = ['frameborder', 'buttontext']
       # see https://duckduckgo.com/search_box
