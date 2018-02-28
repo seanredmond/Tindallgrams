@@ -50,6 +50,9 @@ glossary:
     term: AS-278
     cf: AS-207/208
   -
+    term: AS-278B
+    cf: AS-207/208
+  -
     term: ASPO
     def: "Apollo Spacecraft Program Office."
   -
@@ -94,6 +97,9 @@ glossary:
   -
     term: EMS
     def: "Entry Monitoring System. A CM system used during re-entry into the Earth's atmosphere."
+  -
+    term: Erasable memory
+    def: The Apollo Guidance Computer had a small amount of ["erasable memory"](https://en.wikipedia.org/wiki/Apollo_Guidance_Computer#Memory) analogous to the RAM in a modern computer.
   -
     term: EVA
     def: "Extra-vehicular activity, such as space-walks and moon-walks."
