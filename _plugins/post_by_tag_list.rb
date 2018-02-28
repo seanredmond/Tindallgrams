@@ -70,7 +70,7 @@ module Jekyll
 </li>|
       end
 
-      output += "</li></ul>"
+      output += "</ul>"
 
 
       return output
