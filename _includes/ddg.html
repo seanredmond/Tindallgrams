@@ -1,3 +1,8 @@
   <div class="ddg-search">
-    <iframe src="https://duckduckgo.com/search.html?site=tindallgrams.net&prefill=Search%20Tindallgrams" title="Site search"></iframe>
+    <form method="get" id="search" action="http://duckduckgo.com/">
+      <label for="sitesearch">Search Tindallgrams</label>
+      <input type="hidden" name="sites" value="tindallgrams.net"/>
+      <input id="sitesearch" type="text" name="q" maxlength="255" placeholder="Enter Keywords"/>
+      <input type="submit" value="Search"/>
+    </form>
   </div>
