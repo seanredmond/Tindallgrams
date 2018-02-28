@@ -25,7 +25,7 @@ module Jekyll
 </tr>|
       end
 
-      output += "</tr></tbody></table>"
+      output += "</tbody></table>"
     end
   end
 end
