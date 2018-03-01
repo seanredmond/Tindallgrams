@@ -2,10 +2,11 @@
 layout: inner
 ---
 <article class="tindallgram">
+  <h2>{{ page.subject }}</h2>
   {% if page.tags %}
   <div class="topiclist">Topics: {% pagetags %}</div>
   {% endif %}
-  <ul class="headings">
+  <ul class="headings" aria-label="memo headings">
     <li class="date"><span class="label">Date:</span> {{ page.date}}</li>
     <li class="serial"><span class="label"> </span> {{ page.serial}}</li>
     <li class="from"><span class="label">From:</span> {{ page.from}}</li>

@@ -20,6 +20,7 @@
 	  position: relative;
 	  list-style-type: none;
 	  padding: 0;
+          margin-bottom: 2em;
 	  
 	  .from {
 	      width: 50%;
@@ -54,7 +55,9 @@
 }
 
 .topiclist {
-  font-family: 'Oswald', sans-serif; 
+  font-family: 'Oswald', sans-serif;
+  margin-bottom: 2em;
+    
   a {
     color: white;
     text-decoration: none;
