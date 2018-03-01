@@ -58,11 +58,6 @@
   font-family: 'Oswald', sans-serif;
   margin-bottom: 2em;
     
-  a {
-    color: white;
-    text-decoration: none;
-  }
-
   ul {
     list-style-type: none;
     display: inline;
@@ -75,13 +70,21 @@
       border: 1px solid black;
       padding: 0 0.5em;
       border-radius: 3px;
-      background-color: gray;
+      background-color: #595959;
       font-size: .9em;
 
-      &:hover {
-        background-color: silver;
+      a {
+        color: white;
+        text-decoration: none;
       }
 
+      &:hover {
+        background-color: white;
+
+        a {
+            color: #595959;
+        }
+      }
     }
   }
 }
