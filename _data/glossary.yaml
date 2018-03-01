@@ -5,6 +5,9 @@ glossary:
     term: "278"
     cf: "AS-207/208"
   -
+    term: "503"
+    cf: "AS-503"
+  -
     term: "504"
     cf: "AS-504"
   -
@@ -23,17 +26,20 @@ glossary:
     term: AGS
     def: "[Abort Guidance System](https://en.wikipedia.org/wiki/Apollo_Abort_Guidance_System)."
   -
+    term: AOT
+    def: "[Alignment Optical Telescope](https://en.wikipedia.org/wiki/Apollo_PGNCS#Optical_unit), a \"space sextant\" the astronauts used to correct the alignment of their intertial guidance system."
+  -
     term: "Apollo 1"
     def: "Originally designated AS-204, Apollo 1 was scheduled to be to launch on February 21, 1967 as the first manned Apollo mission. During a test on January 27, 1967, a fire in the crew compartment killed the three Apollo 1 austronauts, Gus Grissom, Ed White, and Roger Chaffee. This fire resulted in reappraisal of just about every goal, procedure, and schedule of the Apollo program."
   -
     term: APS
     def: "[Ascent Propulsion System](https://en.wikipedia.org/wiki/Ascent_Propulsion_System)"
   -
+    term: AS-503
+    def: "Before the Apollo 1 fire, the mission referred to as AS-503 was an unmanned Earth orbit test flight of the LM and CM scheduled for October 1967. The launch vehicle, SA-503 was used for Apollo 8, December 23 1968."
+  -
     term: AS-504
     def: "Before the Apollo 1 fire, the mission referred to as AS-504 was originally scheduled for December 1967. AS-504 eventually launched as Apollo 9, March 3 1969."
-  -
-    term: AS-503
-    def: "Before the Apollo 1 fire, the mission referred to as AS-503 was originally scheduled for October 1967. AS-503 eventually launched as Apollo 8, December 23 1968."
   -
     term: AS-204
     cf: "Apollo 1"
@@ -89,11 +95,17 @@ glossary:
     term: Delta-v
     def: "The amount of [change in velocity](https://en.wikipedia.org/wiki/Delta-v) required to change a spacecraft's trajectory in a certain way."
   -
+    term: DSKY
+    def: "The [\"Display and Keyboard\" interface](https://en.wikipedia.org/wiki/Apollo_Guidance_Computer#DSKY) through which the astronauts controlled their guidance computers."
+  -
     term: DOI
     def: Descent Orbit Insertion. A LM maneuver performed to reduce the altitude of its orbit in preparation for landing.
   -
     term: DPS
     def: "[Descent Propulsion System](https://en.wikipedia.org/wiki/Descent_Propulsion_System)."
+  -
+    term: ECS
+    def: Environmental control system.
   -
     term: EMS
     def: "Entry Monitoring System. A CM system used during re-entry into the Earth's atmosphere."
@@ -157,6 +169,9 @@ glossary:
   -
     term: LM
     def: "[Lunar Module](https://en.wikipedia.org/wiki/Apollo_Lunar_Module). Earlier it was known as the Lunar Excursion Module and abbreviated “LEM.” Even after the name change, it continued to be pronounced “lem.”"
+  -
+    term: LMP
+    def: "Lunar Module Mission Programer. A sort of autopilot for operating the LM when it was unmanned. In the end, an LMP was only ever used on Apollo 5. See [Apollo experience report: Guidance and control systems; lunar module mission programer](https://ntrs.nasa.gov/search.jsp?R=19750013238)"
   -
     term: LORS
     def: Lunar optical rendezvous system.
@@ -226,6 +241,9 @@ glossary:
   -
     term: S-IVB
     def: The second stage of a Saturn IB or the third stage of a Saturn V.
+  -
+    term: SIVB
+    cf: "S-IVB"
   -
     term: SPS
     def: "Service Propulsion System, the large engine of the Service Module that was used to enter and exit lunar orbit, as well as make course corrections while going to and from the moon."
