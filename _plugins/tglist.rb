@@ -10,7 +10,17 @@ module Jekyll
       tgrams = context.registers[:site].pages.reject{|p| p.data['layout'] != 'tindallgram'}.
         sort{|a, b| DateTime.strptime(a.data['date'], '%b %d %Y') <=> DateTime.strptime(b.data['date'], '%b %d %Y')}
 
-      output = '<table class="tindallgram-index"><tbody>'
+      output = %Q|
+<table class="tindallgram-index">
+  <thead>
+    <tr>
+      <th scope="col">Date</th>
+      <th scope="col">Serial Number</th>
+      <th scope="col">Subject</th>
+    </tr>
+  </thead>
+  <tbody>
+   |
 
       tgrams.each do |tg|
         date = tg.data['date']
