@@ -133,7 +133,7 @@ DEPENDENCIES
   unicorn
 
 RUBY VERSION
-   ruby 2.3.4p301
+   ruby 2.6.3p62
 
 BUNDLED WITH
-   1.16.1
+   1.17.3
